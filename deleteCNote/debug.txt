@@ -1,0 +1,121 @@
+#include "AcpiPlatform.h"
+#include <AsiaCpuProtocol.h>
+STATIC
+EFI_STATUS
+GetPStateTableData (
+  IN ACPU_PSTATE_TABLE  **PState
+  )
+{
+  EFI_ASIA_CPU_PROTOCOL  *AsiaCpu;
+  EFI_STATUS             Status;
+  STATIC ACPU_PSTATE_TABLE  gPStateTbl;
+  STATIC ACPU_PSTATE_TABLE  *gCpuPStateTbl = NULL;
+  if(gCpuPStateTbl == NULL){
+    Status = gBS->LocateProtocol(&gAsiaCpuProtocolGuid, NULL, (VOID**)&AsiaCpu);
+    ASSERT_EFI_ERROR(Status);
+    Status = AsiaCpu->GetCpuPstateTable(&gPStateTbl);
+    ASSERT_EFI_ERROR(Status);
+    gCpuPStateTbl = &gPStateTbl;
+  }
+  *PState = gCpuPStateTbl;
+  return EFI_SUCCESS;
+}
+EFI_STATUS
+UpdateVpssPackage (
+  IN UINT8  *VpssName
+)
+{
+  UINTN                  Index;
+  UINTN                  Count;
+  UINTN                  AslCount;
+  ACPU_PSTATE            *PState;
+  UINT8                  *Data8;
+  EFI_STATUS             Status;
+  ACPU_PSTATE_TABLE      *PStateTable;
+  UINTN                  NewPkgLengh;
+  Status = GetPStateTableData(&PStateTable);
+  ASSERT_EFI_ERROR(Status);
+  Count    = PStateTable->StatesNum;
+  AslCount = *(VpssName+7);
+  if(Count > AslCount){Count = AslCount;}
+  NewPkgLengh = 3 + 0x48 * Count;
+  *(VpssName+5) = (UINT8)(0x40 | (NewPkgLengh & 0xF));
+  *(VpssName+6) = (UINT8)(((UINT32)NewPkgLengh)>>4);
+  *(VpssName+7) = (UINT8)Count;
+  Data8 = VpssName + 13;
+  ASSERT(*(Data8-1) == 0x0C);
+  for(Index=0;Index<Count;Index++){
+    PState = &PStateTable->PStateTable[Index];
+    ASSERT(*(Data8-1) == 0x0C);
+    *(UINT32*)Data8 = PState->CoreFreq;
+    Data8 += 5;
+    ASSERT(*(Data8-1) == 0x0C);
+    *(UINT32*)Data8 = PState->Power;
+    Data8 += 5;
+    ASSERT(*(Data8-1) == 0x0C);
+    *(UINT32*)Data8 = 10;
+    Data8 += 5;
+    ASSERT(*(Data8-1) == 0x0C);
+    *(UINT32*)Data8 = 10;
+    Data8 += 8;
+    ASSERT(*(Data8-2) == 0x0A);
+    *(UINT16*)Data8 = (PState->BusRatio<<8)|PState->VID;
+    Data8 += 12;
+    ASSERT(*(Data8-2) == 0x0A);
+    *(UINT16*)Data8 = (PState->BusRatio<<8)|PState->VID;
+    Data8 += 12;
+    ASSERT(*(Data8-2) == 0x0A);
+    Data8 += 12;
+    ASSERT(*(Data8-2) == 0x0A);
+    *(UINT16*)Data8 = 0xFFFF;
+    Data8 += 13;
+  }
+  return Status;
+}
+EFI_STATUS
+UpdateNpssPackage (
+  IN UINT8  *NpssName
+)
+{
+  UINTN                  Index;
+  UINTN                  Count;
+  UINTN                  AslCount;
+  ACPU_PSTATE            *PState;
+  UINT8                  *Data8;
+  EFI_STATUS             Status;
+  ACPU_PSTATE_TABLE      *PStateTable;
+  UINTN                  NewPkgLengh;
+  Status = GetPStateTableData(&PStateTable);
+  ASSERT_EFI_ERROR(Status);
+  Count    = PStateTable->StatesNum;
+  AslCount = *(NpssName+7);
+  if(Count > AslCount){Count = AslCount;}
+  NewPkgLengh = 3 + 0x21 * Count;
+  *(NpssName+5) = (UINT8)(0x40 | (NewPkgLengh & 0xF));
+  *(NpssName+6) = (UINT8)(((UINT32)NewPkgLengh)>>4);
+  *(NpssName+7) = (UINT8)Count;
+  Data8 = NpssName + 12;
+  ASSERT(*(Data8-1) == 0x0C);
+  for(Index=0;Index<Count;Index++){
+    PState = &PStateTable->PStateTable[Index];
+    ASSERT(*(Data8-1) == 0x0C);
+    *(UINT32*)Data8 = PState->CoreFreq;
+    Data8 += 5;
+    ASSERT(*(Data8-1) == 0x0C);
+    *(UINT32*)Data8 = PState->Power;
+    Data8 += 5;
+    ASSERT(*(Data8-1) == 0x0C);
+    *(UINT32*)Data8 = 10;
+    Data8 += 5;
+    ASSERT(*(Data8-1) == 0x0C);
+    *(UINT32*)Data8 = 10;
+    Data8 += 5;
+    ASSERT(*(Data8-1) == 0x0C);
+    *(UINT32*)Data8 = (PState->BusRatio<<8)|PState->VID;
+    Data8 += 5;
+    ASSERT(*(Data8-1) == 0x0C);
+    *(UINT32*)Data8 = (PState->BusRatio<<8)|PState->VID;
+    Data8 += 8;
+  }
+  return Status;
+}
