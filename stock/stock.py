@@ -113,15 +113,15 @@ def getStockId(num):
 	return id
 
 
-stock_num=37
-stockId=''
-stockTitle=''
+stock_num=153300
 if __name__ == '__main__':
 	while stock_num<1000000:
 		stock_id = getStockId(stock_num)
 		result = []
 		year  = 2017
 		jidu  = 1
+		stockId=''
+		stockTitle=''
 		try:
 			print('starting...')
 			while True:
@@ -134,12 +134,14 @@ if __name__ == '__main__':
 					year-=1
 					jidu=4
 				result.extend(data)
-				time.sleep(3)
+				#time.sleep(3)
 		except:
-			stockId = stockId.replace('*','')
-			with open('D:\stock_data\\'+stockId+'.csv','wb')as f:
+			filename = stockId.replace('*','')
+			with open('D:\stock_data\\'+filename+'.csv','wb')as f:
+				f.write(stockId+'\n')
 				f.write(stockTitle+'\n')	
 				for item in result:
 					f.write(item+'\n')
 			print('ending...')
+		print(stock_id)
 		stock_num+=1
