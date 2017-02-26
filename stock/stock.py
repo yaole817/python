@@ -113,7 +113,7 @@ def getStockId(num):
 	return id
 
 
-stock_num=2
+stock_num=37
 stockId=''
 stockTitle=''
 if __name__ == '__main__':
@@ -136,6 +136,7 @@ if __name__ == '__main__':
 				result.extend(data)
 				time.sleep(3)
 		except:
+			stockId = stockId.replace('*','')
 			with open('D:\stock_data\\'+stockId+'.csv','wb')as f:
 				f.write(stockTitle+'\n')	
 				for item in result:
