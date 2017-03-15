@@ -1,0 +1,909 @@
+机器学习,9.0,(433人评价),周志华/清华大学出版社/2016-1-1/88.00元
+计算机程序的构造和解释,9.5,(1678人评价),HaroldAbelson、GeraldJaySussman、JulieSussman/裘宗燕/机械工业出版社/2004-2/45.00元
+数学之美,8.7,(7539人评价),吴军/人民邮电出版社/2012-5-1/45.00元
+深入理解计算机系统,9.5,(2446人评价),RandalE.Bryant、DavidO&#39;Hallaron/龚奕利、雷迎春/中国电力出版社/2004-5-1/85.00元
+编码,9.2,(1516人评价),[美]CharlesPetzold/左飞、薛佟佟/电子工业出版社/2010/55.00元
+算法导论（原书第2版）,9.3,(4567人评价),[美]ThomasH.Cormen、CharlesE.Leiserson、RonaldL.Rivest、CliffordStein/潘金贵等/机械工业出版社/2006-9/85.00元
+集体智慧编程,9.0,(1178人评价),TOBYSEGARAN/莫映、王开福/电子工业出版社/2009-1/59.80元
+终极算法,8.5,(38人评价),[美]佩德罗·多明戈斯/黄芳萍/中信出版集团/2017-1-1/68.00元
+算法（第4版）,9.4,(421人评价),塞奇威克(RobertSedgewick)、韦恩(KevinWayne)/谢路云/人民邮电出版社/2012-10-1/99.00元
+C程序设计语言,9.4,(3658人评价),（美）BrianW.Kernighan、（美）DennisM.Ritchie/徐宝文、李志译、尤晋元审校/机械工业出版社/2004-1/30.00元
+编程珠玑,9.2,(1743人评价),JonBentley/黄倩、钱丽艳/人民邮电出版社/2008-10/39.00元
+数据结构与算法分析,8.9,(1338人评价),MarkAllenWeiss(维斯)/冯舜玺/机械工业出版社/2004-1-1/35.00元
+Pattern Recognition And Machine Learning,9.6,(850人评价),ChristopherBishop/Springer/2007-10-1/USD94.95
+计算广告,8.7,(307人评价),刘鹏、王超/人民邮电出版社/2015-9-1/69.00元
+程序员的自我修养,8.8,(1756人评价),俞甲子、石凡、潘爱民/电子工业出版社/2009-4/65.00
+具体数学（英文版第2版）,9.5,(783人评价),[美]RonaldL.Graham、DonaldE.Knuth、OrenPatashnik/机械工业出版社/2002-8/49.00元
+计算机科学概论（第11版）,9.1,(169人评价),J.GlennBrookshear/刘艺、肖成海、马小会、毛倩倩/人民邮电出版社/2011-10-1/69.00元
+人工智能的未来,8.8,(605人评价),JeffHawkins、SandraBlakeslee/贺俊杰、李若子、杨倩/陕西科学技术出版社/2006.1/18.5
+编程之美,8.4,(2858人评价),《编程之美》小组编/电子工业出版社/2008-3/40.00元
+编译原理,9.1,(681人评价),AlfredV.Aho、MonicaS.Lam、RaviSethi、JeffreyD.Ullman/赵建华、郑滔、戴新宇/机械工业出版社/2008年12月/89.00元
+TCP/IP详解 卷1：协议,9.2,(1766人评价),W.RichardStevens/范建华/机械工业出版社/2000-4-1/45.00元
+机器学习实战,8.2,(532人评价),PeterHarrington/李锐、李鹏、曲亚东、王斌/人民邮电出版社/2013-6/69.00元
+UNIX编程艺术,9.0,(1956人评价),EricS.Raymond/姜宏、何源、蔡晓俊/电子工业出版社/2006-2/59.00元
+离散数学及其应用（原书第5版）,9.0,(505人评价),[美]KennethH.Rosen/袁崇义/机械工业出版社/2007-6/79.00元
+逻辑的引擎,8.4,(1026人评价),[美]马丁·戴维斯/张卜天/湖南科学技术出版社/2005-5/20.00元
+现代操作系统（第3版）,9.0,(514人评价),AndrewS.Tanenbaum/陈向群、马洪兵/机械工业出版社/2009-7/75.00元
+Python源码剖析,8.7,(630人评价),陈儒/电子工业出版社/2008-6/69.80元
+计算机程序设计艺术（第1卷）,9.3,(431人评价),[美]DonaldE.Knuth/清华大学出版社/2002-9/80.00元
+HTTP权威指南,8.7,(1022人评价),DavidGourley、BrianTotty/陈涓、赵振平/人民邮电出版社/2012-9/109.00元
+Operating Systems,9.8,(73人评价),RemziArpaci-Dusseau、AndreaArpaci-Dusseau/Arpaci-DusseauBooks/2012-8-19/$21.00
+推荐系统实践,8.1,(1090人评价),项亮/人民邮电出版社/2012-6-1/49.00元
+艾伦·图灵传,8.3,(887人评价),[英]安德鲁·霍奇斯/孙天齐/湖南科学技术出版社/2012-3-31/59.00元
+线性代数及其应用,9.1,(460人评价),（美）莱（LayD.C.）/刘深泉等/机械工业出版社/2005-8-1/59.00元
+机器学习,8.4,(688人评价),(美)TomMitchell/曾华军、张银奎、等/机械工业出版社/2008-3/35.00元
+Machine Learning,9.3,(193人评价),KevinP.Murphy/TheMITPress/2012-8-24/USD90.00
+图灵的秘密,8.8,(335人评价),CharlesPetzold/杨卫东/人民邮电出版社/2012-11/69.00元
+Algorithms to Live By,8.2,(30人评价),BrianChristian、TomGriffiths/HenryHoltandCo./2016-4-19/USD30.00
+计算机网络,8.8,(811人评价),AndrewS.Tanenbaum/潘爱民/清华大学出版社/2004-8-1/60.00元
+STL源码剖析,8.7,(1103人评价),侯捷/华中科技大学出版社/2002-6/68.00元
+图解密码技术,9.2,(152人评价),[日]结城浩/周自恒/人民邮电出版社/2014-12/79.00元
+构建之法,8.6,(360人评价),邹欣/人民邮电出版社/2014-9/49.00元
+大教堂与集市,8.5,(453人评价),[美]EricS.Raymond/卫剑钒/机械工业出版社/2014-5/59.00元
+计算的本质,8.6,(84人评价),[英]TomStuart/张伟/人民邮电出版社/2014-11/69.00元
+数据挖掘导论,8.3,(319人评价),Pang-NingTan、MichaelSteinbach、VipinKumar/范明、范宏建/人民邮电出版社/2010-12-10/69.00元
+The Little Schemer - 4th Edition,9.3,(390人评价),DanielP.Friedman、MatthiasFelleisen/TheMITPress/1995-12-21/USD40.00
+图解HTTP,8.1,(831人评价),【日】上野宣/于均良/人民邮电出版社/2014-4-15/49.00元
+如何求解问题,8.5,(322人评价),ZbigniewMichalewicz、DavidB.Fogel/曹宏庆/中国水利水电出版社/2003-2-1/35.00元
+数据库系统实现,8.8,(114人评价),加西亚-莫利纳(HectorGarcia-Molina)、JeffreyD.Ullman、JenniferWidom/杨冬青、吴愈青、包小源/机械工业出版社/2010-5/59.00元
+程序设计实践,9.0,(432人评价),[美]BrianW.Kernighan、RobPike/裘宗燕/机械工业出版社/2000-8/20.00元
+穿越计算机的迷雾,8.7,(174人评价),李忠/电子工业出版社/2011-1/36.00元
+Algorithms,9.2,(319人评价),SanjoyDasgupta、ChristosPapadimitriou、UmeshVazirani/McGraw-HillScience/Engineering/Math/2006-9-13/$60.46
+程序员的数学2,8.6,(37人评价),平冈和幸、堀玄/陈筱烟/人民邮电出版社/2015-8-1/CNY79.00
+挑战程序设计竞赛,9.2,(134人评价),秋叶拓哉、岩田阳一、北川宜稔/巫泽俊、庄俊元、李津羽/人民邮电出版社/2013-7-1/CNY79.00
+编写可读代码的艺术,8.6,(672人评价),Boswell,D.、Foucher,T./尹哲、郑秀雯/机械工业出版社/2012-7-10/59.00元
+七周七语言,8.1,(648人评价),BruceA.Tate/巨成、戴玮、白明/人民邮电出版社/2012-5-8/59.00元
+计算机系统要素,9.2,(99人评价),NoamNisan、ShimonSchocken/周维、宋磊、陈曦/电子工业出版社/2007-01-01/45.00元
+计算机组成与设计硬件/软件接口,9.3,(204人评价),[美]DavidA.Patterson、JohnL.Hennessy/郑纬民/机械工业出版社/2007-4/75.00元
+研究之美,8.4,(377人评价),[美]DonaldE.Knuth/高博/电子工业出版社/2012-1-1/49.00元
+人工智能,8.9,(191人评价),PeterNorvig、StuartRussell/姜哲/人民邮电出版社/2004-6/85.00元
+科学的极致：漫谈人工智能,8.1,(148人评价),集智俱乐部/人民邮电出版社/2015-7/49.00元
+汇编语言（第2版）,9.3,(977人评价),王爽/清华大学出版社/2008-4/33.00元
+程序员的数学,7.2,(605人评价),结城浩/管杰/人民邮电出版社/2012-10/49.00元
+鸟哥的Linux私房菜,9.1,(2124人评价),鸟哥/人民邮电出版社/2010-6-28/88.00元
+编程语言实现模式,8.4,(156人评价),TerenceParr/李袁奎、尧飘海/华中科技大学出版社/2012-3-20/72.00元
+Orange&#39;S:一个操作系统的实现,8.8,(362人评价),于渊/电子工业出版社/2009-6/69.00元
+Parsing Techniques,9.3,(31人评价),DickGrune、CerielJ.H.Jacobs/Springer/2010-2-12/USD109.00
+R语言实战,8.8,(470人评价),卡巴科弗(RobertI.Kabacoff)/高涛、肖楠、陈钢/人民邮电出版社/2013-1/79.00元
+程序设计语言,9.0,(101人评价),斯科特/裘宗燕/电子工业出版社/2007-6/99.00元
+程序员的数学3,8.9,(25人评价),[日]平冈和幸、[日]堀玄/卢晓南/人民邮电出版社/2016-3/79.00元
+计算机网络（第4版）,8.8,(632人评价),[美]JamesF.Kurose、[美]KeithW.Ross/陈鸣/机械工业出版社/2009-11/66.00元
+高效程序的奥秘,8.4,(197人评价),沃瑞恩/冯速/机械工业出版社/2004-5/28.00元
+Python核心编程（第二版）,7.7,(1326人评价),[美]WesleyJ.Chun（陳仲才）/CPUG/人民邮电出版社/2008-06/89.00元
+数据库系统概念,8.3,(370人评价),AbrahamSilberschatz、HenryF.Korth、S.Sudarshan/杨冬青、马秀莉、唐世渭/机械工业/2006-10-01/69.50元
+30天自制操作系统,8.3,(240人评价),[日]川合秀实/周自恒、李黎明、曾祥江、张文旭/人民邮电出版社/2012-8/99.00元
+计算机科学导论,8.2,(188人评价),BehrouzA.Forouzan/刘艺/机械工业出版社/2009-1/30.00元
+程序是怎样跑起来的,8.0,(129人评价),[日]矢泽久雄/李逢俊/人民邮电出版社/2015-4/39.00元
+大话数据结构,8.0,(755人评价),程杰/清华大学出版社/2011-6/59.00元
+大数据日知录,8.0,(140人评价),张俊林/电子工业出版社/2014-9/69.00元
+剑指Offer,8.4,(471人评价),何海涛/电子工业出版社/2012-1/45.00元
+Vim实用技巧,9.3,(213人评价),[英]DrewNeil/杨源、车文隆/人民邮电出版社/2014-5-1/59.00元
+Python网络数据采集,7.7,(109人评价),米切尔(RyanMitchell)/陶俊杰、陈小莉/人民邮电出版社/2016-3-1/CNY59.00
+计算理论导引,9.1,(170人评价),[美]MichaelSipser/唐常杰、陈鹏、向勇、刘齐宏/机械工业出版社/2006-7/36.00元
+C语言程序设计,9.2,(217人评价),K.N.King/吕秀锋、黄倩/人民邮电出版社/2010-4/79.00元
+信息论基础,9.0,(83人评价),[美]ThomasM.Cover,JoyA.Thomas/机械工业出版社/2005-5/56.00元
+信息检索导论,9.1,(210人评价),ChristopherD.Manning、HinrichSchütze、PrabhakarRaghavan/王斌/人民邮电出版社/201008/69.00元
+这就是搜索引擎,8.1,(386人评价),张俊林/电子工业出版社/2012-1-1/45.00元
+世界是数字的,8.3,(239人评价),[美]BrianW.Kernighan/李松峰、徐建刚/人民邮电出版社/2013-6/49.00
+推荐系统,8.1,(125人评价),[奥地利]DietmarJannach、MarkusZanker、AlexanderFelfernig、GerhardFriedrich/蒋　凡/人民邮电出版社/2013-6-25/59.00元
+编译器设计,8.8,(62人评价),KeithCooper、LindaTorczon/郭旭/人民邮电出版社/2012-12/99.00元
+Cracking the Coding Interview, Fourth Edition,8.8,(216人评价),GayleLaakmann/CreateSpace/2008-10-15/USD40.00
+垃圾回收的算法与实现,7.7,(24人评价),中村成洋、相川光/丁灵/人民邮电出版社/99.00元
+How to Design Programs,9.1,(122人评价),MatthiasFelleisen、RobertBruceFindler、MatthewFlatt、ShriramKrishnamurthi/TheMITPress/2001-2-12/71.00美元
+深入Linux内核架构,8.9,(200人评价),WolfgangMauerer/郭旭/人民邮电出版社/201005/149.00元
+算法艺术与信息学竞赛,8.5,(644人评价),刘汝佳/清华大学出版社/2004-1/45.00元
+啊哈!算法,8.0,(261人评价),啊哈磊/人民邮电出版社/2014-6-1/45.00元
+操作系统,8.6,(119人评价),斯托林斯/陈渝/电子工业/2006-2/58.00元
+The Nature of Code,9.0,(66人评价),DanielShiffman/TheNatureofCode/2012-12-13/$33.84
+算法帝国,7.3,(306人评价),克里斯托弗•斯坦纳/李筱莹/人民邮电出版社/2014-6/49.00
+计算机系统概论,8.9,(121人评价),派特（Patt.Y.N.）/机械工业/2008-1-1/49.00元
+计算机体系结构,9.5,(112人评价),斯坦福大学/机械工业出版社/2007-1/78.00元
+黑客攻防技术宝典（第2版）,8.7,(87人评价),[英]DafyddStuttard、[英]MarcusPinto/石华耀、傅志红/人民邮电出版社/2012-6-26/99.00元
+Mathematics for Computer Science,9.9,(23人评价),EricLehman、FThomsonLeighton、AlbertRMeyer/UniversityofPrinceton/2010-9-8
+代码的未来,7.7,(689人评价),[日]松本行弘/周自恒/人民邮电出版社/2013-6/79.00元
+通灵芯片,8.5,(202人评价),DanielHillis/崔良沂/上海世纪出版集团/2009-1/19.80元
+图解TCP/IP : 第5版,7.7,(409人评价),[日]竹下隆史、[日]村山公保、[日]荒井透、[日]苅田幸雄/乌尼日其其格/人民邮电出版社/2013-7-1/69.00元
+算法的乐趣,8.1,(49人评价),王晓华/人民邮电出版社/2015-4/79.00元
+Unix &amp; Linux大学教程,9.5,(171人评价),哈恩(HarleyHahn)/张杰良/清华大学出版社/2010-1-1/98.00元
+Python Algorithms,8.9,(61人评价),MagnusLieHetland/Apress/2010-11-24/USD49.99
+计算机组成：结构化方法,9.0,(63人评价),坦嫩鲍姆/刘卫东/人民邮电出版社/2006-1/65.00元
+Python基础教程,7.9,(1431人评价),MagnusLieHetland/司维、曾军崴、谭颖华/人民邮电出版社/2010年7月/69.00元
+算法：C语言实现,8.8,(158人评价),塞奇威克/霍红卫/机械工业出版社/2009-10/79.00元
+思考的乐趣,8.3,(1468人评价),顾森/人民邮电出版社/2012-6/45.00元
+技术之瞳——阿里巴巴技术笔试心得,7.5,(25人评价),阿里巴巴集团校园招聘笔试项目组/电子工业出版社/2016-11/69
+操作系统设计与实现（上册）,9.1,(182人评价),AndrewS.Tanenbaum、AlbertS.Woodhull/陈渝、谌卫军/电子工业出版社/2007-3/49.80元
+Learning From Data,9.4,(69人评价),YaserS.Abu-Mostafa、MalikMagdon-Ismail、Hsuan-TienLin/AMLBook/2012-3-27/USD48.00
+灵魂机器的时代,8.2,(204人评价),（美）雷·库兹韦尔/沈志彦、祁阿红、王晓冬/上海译文出版社/2006-04-01/37.00
+数据挖掘概念与技术,7.7,(456人评价),(加)JiaweiHan;MichelineKamber/范明、孟小峰/机械工业/2007-3/55.00元
+UNIX环境高级编程,9.4,(2043人评价),W.RichardStevens、StephenA.Rago/尤晋元、张亚英、戚正伟/人民邮电出版社/2006年/99.00元
+C++程序设计语言（特别版）,8.9,(872人评价),[美]BjarneStroustrup贝尔实验室/裘宗燕/机械工业出版社/2002-7/85.00元
+Bayesian Reasoning and Machine Learning,9.5,(45人评价),DavidBarber/CambridgeUniversityPress/2011/$101.70
+代码整洁之道,8.5,(943人评价),[美]RobertC.Martin/韩磊/人民邮电出版社/2010-1-1/59.00元
+自制编程语言,8.1,(85人评价),［日］前桥和弥/刘卓、徐谦、吴雅明/人民邮电出版社/2013-11/79.00
+From Mathematics to Generic Programming,8.0,(少于10人评价),AlexanderA.Stepanov、DanielE.Rose/Addison-WesleyProfessional/2011-9-13/USD39.99
+奇思妙想,8.9,(291人评价),DennisE.Shasha、CathyA.Lazere/向怡宁/人民邮电出版社/2012-3/32.00元
+算法引论,8.0,(176人评价),[美]UdiManber/黄林鹏、谢瑾奎、陆首博、等/电子工业出版社/2005-9-1/35.00元
+Head First Python（中文版）,8.2,(421人评价),巴里（Barry.P.）/林琪等/中国电力出版社/2012-3-1/68.00元
+神经网络与机器学习（原书第3版）,9.1,(65人评价),[加]SimonHaykin/申富饶、徐烨、郑俊、晁静/机械工业出版社/2011-3/79.00元
+Algorithms on Strings, Trees and Sequences,7.7,(34人评价),DanGusfield/CambridgeUniversityPress/1997-5-28/USD99.99
+计算机是怎样跑起来的,9.0,(105人评价),[日]矢泽久雄/胡屹/人民邮电出版社/2015-5/39.00元
+深入理解LINUX内核,9.2,(397人评价),DanielP.Bovet、MarcoCesati/东南大学出版社/2006-4-1/98.00元
+Essentials of Programming Languages, 3rd Edition,7.6,(40人评价),DanielP.Friedman、MitchellWand/TheMITPress/2008-04-30/USD65.00
+深入浅出数据分析,7.9,(1014人评价),MichaelMilton/李芳/电子工业出版社/2009/88.00元
+七周七并发模型,9.4,(136人评价),PaulButcher/黄炎/人民邮电出版社/2015-3/49.00元
+Purely Functional Data Structures,7.7,(28人评价),ChrisOkasaki/CambridgeUniversityPress/1999-6-13/USD49.99
+大数据,7.2,(357人评价),AnandRajaraman、JeffreyDavidUllman/王斌/人民邮电出版社/2012-9/59.00元
+数据之美,9.2,(263人评价),TobySegaran、JeffHammerbacher/祝洪凯、李妹芳、段炼/机械工业出版社/2010年10月/75.00元
+Types and Programming Languages,8.7,(50人评价),BenjaminC.Pierce/TheMITPress/2002-2-1/USD89.00
+The Algorithm Design Manual,8.6,(87人评价),StevenS.Skiena/Springer/2008.07/$79.95
+Probabilistic Graphical Models,9.0,(104人评价),DaphneKoller、NirFriedman/TheMITPress/2009-8-31/$95.00
+领域特定语言,8.3,(64人评价),MartinFowler/ThoughtWorks中国/机械工业出版社华章公司/2013-3/89.00元
+Real-Time Rendering, Third Edition,9.7,(123人评价),TomasAkenine-Moller、EricHaines、NatyHoffman/AKPeters/CRCPress/2008-7-25/USD102.95
+统计自然语言处理,8.0,(105人评价),宗成庆/清华大学出版社/2008-5/66.00元
+数值分析,9.5,(43人评价),索尔(TimothySauer)/吴兆金、王国英、范红军/人民邮电出版社/2010-1/79.00元
+Python科学计算,8.0,(159人评价),张若愚/清华大学出版社/2012-1/98.00元
+Linux/Unix设计思想,7.7,(538人评价),甘卡兹/漆犇/人民邮电出版社/2012-3-28/39.00元
+Paradigms of Artificial Intelligence Programming,9.7,(35人评价),PeterNorvig/MorganKaufmann/1991-10-01/USD72.95
+MySQL必知必会,8.3,(577人评价),[英]BenForta/刘晓霞、钟鸣/人民邮电出版社/2009-1/39.00元
+高等应用数学问题的MATLAB求解,9.2,(101人评价),薛定宇、陈阳泉/清华大学出版社/2008-10/49.00元
+程序员必读之软件架构,7.4,(79人评价),[英]SimonBrown/邓　钢/人民邮电出版社/2014-12/49.00元
+Problem Solving with Algorithms and Data Structures Using Python,9.3,(28人评价),BradleyN.Miller、DavidL.Ranum/FranklinBeedle&amp;Associates/2005-9-1/USD45.00
+编程原本,8.2,(67人评价),AlexanderStepanov、PaulMcJones/裘宗燕/机械工业出版社华章公司/2012-1-10/59.00元
+计算机科学概论,8.9,(143人评价),(美)NellDale、JohnLewis/张欣、胡伟/机械工业出版社/2009-2/49.00元
+高级编译器设计与实现,8.9,(34人评价),（美）马其尼克/赵克佳/沈志宇/赵克佳、沈志宇/机械工业出版社/2005-01-01/75.00元
+编程珠玑II,8.7,(534人评价),(美)JonBentley/钱丽艳;刘田/人民邮电出版社/2008年10月/39.00元
+Google软件测试之道,8.1,(198人评价),JamesA.Whittaker、JasonArbon、JeffCarollo/黄利、李中杰、薛明/人民邮电出版社/2013-10/59.00元
+应用密码学,8.9,(156人评价),BruceSchneier/吴世忠/等/机械工业出版社/2000-1-1/49.00元
+Think Python,8.3,(193人评价),AllenB.Downey/O&#39;ReillyMedia/2012-6/$39.99
+Multiple View Geometry in Computer Vision,9.8,(74人评价),RichardHartley、AndrewZisserman/CambridgeUniversityPress/2004-4-19/USD122.00
+两周自制脚本语言,8.3,(46人评价),[日]千叶滋/陈筱烟/人民邮电出版社/2014-6/59.00元
+身体的智能,8.1,(19人评价),RolfPfeifer、JoshBongard/俞文伟/科学出版社/2009-8/58.00元
+用Python写网络爬虫,7.9,(20人评价),[澳]理查德劳森/李斌/人民邮电出版社/2016-8-1/CNY45.00
+Linux内核设计与实现,8.7,(550人评价),拉芙/陈莉君、唐华、张波/机械工业出版社/2006-1/38.00元
+社会工程,8.0,(190人评价),海德纳吉(ChristopherHadnagy)/陆道宏、杜娟、邱璟/人民邮电出版社/2013-12/59.00元
+人工智能,8.3,(90人评价),（美）卢格尔（Luger，G.F.）/赵志崑、史忠植、张银奎/机械工业出版社/2006-10/75.00元
+The Garbage Collection Handbook,8.4,(18人评价),RichardJones、AntonyHosking、EliotMoss/ChapmanandHall/CRC/2011-8-17/USD79.95
+模式分类,8.9,(313人评价),RichardO.Duda、PeterE.Hart、DavidG.Stork/李宏东/机械工业出版社/2003-9/59.00元
+SRE: Google运维解密,9.2,(73人评价),【美】BetsyBeyer（贝特西拜尔）等/孙宇聪/电子工业出版社/2016-10-1/CNY108.00
+SQL反模式,8.5,(185人评价),[美]BillKarwin/谭振林、PushChen/人民邮电出版社/2011-9/59.00元
+调试九法,8.8,(101人评价),DavidJ.Agans/赵俐/人民邮电出版社/2010-12-7/35.00元
+The Seasoned Schemer,9.1,(53人评价),DanielP.Friedman、MatthiasFelleisen/TheMITPress/1995-12-21/USD38.00
+迷茫的旅行商,8.1,(132人评价),[美]WilliamJ.Cook/隋春宁/人民邮电出版社/2013-10-1/49.00
+The Science of Programming,8.3,(22人评价),DavidGries/Springer/1989-4-21/USD99.00
+Python语言及其应用,8.2,(48人评价),[美]BillLubanovic/丁嘉瑞、梁　杰、禹常隆/人民邮电出版社/2015-12/79.00元
+UNIX网络编程 卷2,9.5,(126人评价),W.RichardStevens/人民邮电出版社/2009-11/89.00元
+线性代数,8.7,(119人评价),[美]利昂StevenJ.Leon/张文博、张丽静/机械工业出版社/2007-2-1/58.00元
+心智、语言和机器,8.9,(22人评价),徐英瑾/人民出版社/2013-10-1/CNY65.00
+Physically Based Rendering, Second Edition,9.5,(53人评价),MattPharr、GregHumphreys/MorganKaufmann/2010-7-12/USD99.95
+Numerical Optimization,9.3,(46人评价),JorgeNocedal、StephenWright/Springer/2000-04-28/USD84.95
+UNIX操作系统设计,9.0,(143人评价),MauriceJ.Bach/陈葆珏/机械工业出版社/2000-4/35.00元
+C Primer Plus,9.2,(1450人评价),StephenPrata、云巅工作室/云巅工作室/人民邮电出版社/2005-2-1/60.00元
+计算机与人脑,8.3,(229人评价),[美]约·冯·诺意曼/甘子玉/商务印书馆/1965-3/7.00元
+改变未来的九大算法,7.7,(272人评价),[美]约翰.麦考密克/管策/中信出版社/2013-6/39.00元
+Concepts, Techniques, and Models of Computer Programming,8.3,(24人评价),PeterVanRoy、SeifHaridi/TheMITPress/2004-2-20/USD78.00
+计算机程序设计艺术（第2卷）,9.5,(66人评价),DonaldE.Knuth/苏运霖/国防工业出版社/2002-8/98.00元
+算法设计,8.2,(157人评价),JonKleinberg、ÉvaTardos/张立昂、屈婉玲/清华大学出版社/2007-3-1/75.00元
+C语言编程：一本全面的C语言入门教程（第三版）,8.7,(103人评价),（美）StephenKochan/张小潘/电子社博文视点资讯有限公司/2006年/59
+Java编程思想 （第4版）,9.1,(2638人评价),[美]BruceEckel/陈昊鹏/机械工业出版社/2007-6/108.00元
+第一本Docker书,7.4,(225人评价),[澳]詹姆斯•特恩布尔（JamesTurnbull）/李兆海刘斌巨震/人民邮电出版社/2014-12/59
+The AWK Programming Language,9.5,(93人评价),AlfredV.Aho、BrianW.Kernighan、PeterJ.Weinberger/Pearson/1988-1-11/USD151.40
+Data Structures and Algorithms in Python,8.2,(19人评价),MichaelT.Goodrich、RobertoTamassia、MichaelH.Goldwasser/Wiley/2013-3-18/$176.00
+Reinforcement Learning,8.7,(36人评价),RichardS.Sutton、AndrewG.Barto/TheMITPress/1998-03-01/USD60.00
+计算机程序设计艺术,9.6,(20人评价),（美/机械工业出版社/2006-7/45.00元
+数理逻辑,8.5,(43人评价),[美]HerbertB.Enderton/沈复兴、陈磊、孙运传/人民邮电出版社/2007-3/35.00元
+最优化理论与方法,8.8,(34人评价),袁亚湘/科学出版社/1997-1/38.00元
+Principles of Computer System Design,9.4,(34人评价),JeromeH.Saltzer、M.FransKaashoek/MorganKaufmann/2009-7-7/USD82.95
+架构即未来：现代企业可扩展的Web架构、流程和组织(原书第2版),8.7,(39人评价),MartinL.Abbott、MichaelT.Fisher/陈斌/机械工业出版社/2016-4-15/99.00
+算法精解,8.2,(96人评价),KyleLoudon/肖翔、陈舸/机械工业出版社/2012-8/79.00元
+学习JavaScript数据结构与算法,8.2,(39人评价),[巴西]格罗纳（LoianeGroner）/孙晓博、邓钢、吴双、陈迪、袁源/人民邮电出版社/2015-10-1/39.00
+The Implementation of Functional Programming Languages,8.2,(13人评价),SimonL.PeytonJones/PrenticeHall/1987-5
+从Python开始学编程,8.9,(12人评价),Vamei/电子工业出版社/2016-11-24/CNY49.00
+智能Web算法,7.5,(205人评价),HaralambosMarmanis、DmitryBabenko/阿稳、陈钢/电子工业出版社/2011-11/65.00元
+编程导论,8.5,(40人评价),[美]JohnV.Guttag/梁杰/人民邮电出版社/2015-4/59.00元
+C++语言的设计和演化,8.8,(376人评价),[美]BjarneStroustrup/裘宗燕/机械工业出版社/2002-1/48.00元
+C语言的科学和艺术,8.5,(106人评价),罗伯茨/翁惠玉/机械工业出版社/2005-3/55.00元
+On Lisp,9.2,(97人评价),PaulGraham/PrenticeHall/09September,1993/$52.00
+Information Theory, Inference and Learning Algorithms,9.2,(69人评价),DavidJ.C.MacKay/CambridgeUniversityPress/2003-10-6/USD80.00
+现代编译原理,8.4,(113人评价),(美)安佩尔/赵克佳、黄春、沈志宇/人民邮电出版社/2006-4/45.00元
+数学建模,8.1,(159人评价),[美]FrankR.Giordano,MauriceD.Weir,WilliamP.Fox/机械工业出版社/2004-1/45.00元
+数据库系统基础教程,8.4,(63人评价),（美）厄尔曼/岳丽华/机械工业出版社/2009-8/45.00元
+复杂性思考,7.6,(73人评价),AllenB.Downey/张龙/机械工业出版社/2013-5/49.00元
+Python自然语言处理,8.1,(141人评价),(英)伯德、(英)克莱因、(美)洛普/东南大学出版社/2010-6/64.00元
+淘宝技术这十年,7.4,(1789人评价),子柳/电子工业出版社/2013-5/45.00元
+C++Primer Plus,8.6,(570人评价),StephenPrata、孙建春、韦强/孙建春、韦强/人民邮电出版社/2005-5/72.00元
+事务处理,8.8,(23人评价),JimGray、AndreasReuter/机械工业出版社/2004-1/96.00元
+A Little Java, A Few Patterns,8.0,(49人评价),MatthiasFelleisen、DanielP.Friedman/TheMITPress/1997-12-19/USD28.00
+Java数据结构和算法,8.4,(143人评价),拉佛/计晓云/中国电力出版社/2004-02-01/55.00元
+Recommender Systems Handbook,8.6,(62人评价),PaulB.Kantor、FrancescoRicci、LiorRokach、BrachaShapira/Springer/2010-03-01/$199.00
+Programming From The Ground Up,9.3,(63人评价),JonathanBartlett/BartlettPublishing/2004-07-31/USD34.95
+HTTPS权威指南,7.8,(14人评价),[英]IvanRisti?/杨洋、李振宇、蒋锷、周辉、陈传文/人民邮电出版社/2016-9/99.00元
+自动机理论、语言和计算导论(英文版.第3版),9.0,(60人评价),JohnE.Hopcroft、RajeevMotwani、JeffreyD.Ullman/机械工业/2007-9/59.00元
+学习OpenCV（中文版）,8.3,(219人评价),GaryBradski、AdrianKaehler/于仕琪、刘瑞祯/清华大学出版社/2009-10-1/75.00元
+数论概论,9.1,(74人评价),希尔弗曼/孙智伟/机械工业出版社/2008-5/42.00元
+Python学习手册,8.2,(777人评价),MarkLutz/侯靖/机械工业出版社/2009-8/89.00元
+算法竞赛入门经典,8.7,(112人评价),刘汝佳、陈锋/2012-10/52.80元
+组合数学,8.6,(298人评价),布鲁迪/冯舜玺/机械工业出版社/2005-2/45.00元
+实用Common Lisp编程,7.9,(159人评价),PeterSeibel/田春/人民邮电出版社/2011-10/89.00元
+Docker——容器与容器云,8.5,(55人评价),浙江大学SEL实验室/人民邮电出版社/2015-9-1/89.00元
+编程之魂,7.5,(267人评价),FedericoBiancuzzi、ShaneWarden/闫怀志/电子工业出版社/2010-04/59.80元
+CPU自制入门,7.9,(39人评价),[日]水头一寿、[日]米泽辽、[日]藤田裕士/赵谦/人民邮电出版社/2014-1/99.00元
+统计自然语言处理基础,8.1,(137人评价),ChrisManning、HinrichSchütze/苑春法、李伟、李庆中/电子工业出版社/2005-1/55.00元
+实现领域驱动设计,8.8,(88人评价),VaughnVernon/滕云/电子工业出版社/2014-3/99.00元
+汇编语言程序设计,8.7,(127人评价),RichardBlum/马朝晖/机械工业出版社/2006-1/48.00元
+数据库索引设计与优化,9.4,(21人评价),【美】TapioLahdenmaki、【美】MichaelLeach/曹怡倩、赵建伟/电子工业出版社/2015-6/79.00元
+写给大家看的算法书,7.7,(15人评价),【日】杉浦贤/绝云/电子工业出版社/2016-6/59.00元
+程序员代码面试指南：IT名企算法与数据结构题目最优解,8.3,(21人评价),左程云/电子工业出版社/2015-9/79.00元
+自然语言处理综论,8.4,(65人评价),DanielJurafsky、JamesH.Martin/冯志伟、孙乐/电子工业出版社/2005/78.0
+Linkers and Loaders,8.7,(118人评价),JohnR.Levine/MorganKaufmann/October1999/USD49.95
+Python算法教程,7.8,(28人评价),[挪威]MagnusLieHetland赫特兰/凌杰、陆禹淳、顾俊/人民邮电出版社/2016-1-1/69.00元
+设计模式,9.1,(2486人评价),[美]ErichGamma、RichardHelm、RalphJohnson、JohnVlissides/李英军、马晓星、蔡敏、刘建中等/机械工业出版社/2000-9/35.00元
+Computational Science and Engineering,9.7,(28人评价),GilbertStrang/Wellesley-CambridgePress/2007-11-1/USD90.00
+Foundations of Machine Learning,8.6,(44人评价),MehryarMohri、AfshinRostamizadeh、AmeetTalwalkar/TheMITPress/2012-8-17/USD70.00
+IT不再重要,7.5,(588人评价),（美）尼古拉斯·卡尔/闫鲜宁/中信出版社/2008-10/29.00元
+游戏编程中的人工智能技术,8.4,(68人评价),布克兰德/吴祖增/清华大学出版社/2006-5/39.0
+Elements of Programming Interviews,9.4,(25人评价),AdnanAziz、AmitPrakash、Tsung-HsienLee/CreateSpaceIndependentPublishingPlatform/2012-10-11/USD39.95
+图解机器学习,6.7,(68人评价),杉山将/许永伟/人民邮电出版社/2015-4/49
+新机器的灵魂,7.6,(129人评价),TracyKidder/龚益、高宏志/机械工业出版社华章公司/2011-10/45.00元
+Let Over Lambda,9.1,(18人评价),DougHoyte/Lulu.com/2008-4-2/USD39.95
+Computer Vision,8.9,(54人评价),RichardSzeliski/Springer/2010-11-24/USD89.95
+Numerical Recipes 3rd Edition,9.4,(65人评价),WilliamH.Press、SaulA.Teukolsky/CambridgeUniversityPress/August2007/£45.00
+趣学Python编程,8.3,(49人评价),JasonBriggs/尹哲/人民邮电出版社/2014-3/45.00元
+若为自由故,8.5,(55人评价),[美]SamWilliams/邓楠、李凡希/人民邮电出版社/2015-4/49
+计算机组成原理,7.5,(300人评价),唐朔飞/高等教育出版社/2008-1/43.00元
+编程大师访谈录,7.4,(191人评价),SusanLammers/李琳骁、吴咏炜、张菁/人民邮电出版社/2012-1/59.00元
+可视化数据,7.7,(111人评价),BenFry/张羽/电子工业出版社/2009-3/65.00元
+图灵的大教堂,7.4,(35人评价),[美]乔治·戴森/盛杨灿/浙江人民出版社/2015-5/89.90
+生物信息学算法导论,8.8,(48人评价),N.C.琼斯/第1版(2007年7月1日)/2007-7/45.0
+数据结构,7.1,(1152人评价),严蔚敏、吴伟民/清华大学出版社/2007-3-1/30.0
+模式识别,8.3,(52人评价),(希)SergiosTheodoridis、(希)KonstantinosKoutroumbas/电子工业出版社/2010-2/75.00元
+数据结构,9.0,(46人评价),邓俊辉/清华大学出版社/2013-9/39.00元
+支撑处理器的技术,8.1,(96人评价),(日)HisaAndo/李剑/电子工业出版社/2012-10/69.00元
+算法技术手册,8.3,(132人评价),GeorgeT.Heineman、GaryPollice、StanleySelkow/杨晨、李明/机械工业出版社/2010-3/55.00元
+Database Management Systems,8.5,(74人评价),RaghuRamakrishnan、JohannesGehrke、RaghuRamakrishnan、JohannesGehrke/McGraw-HillScience/Engineering/Math/2002-08-14/$231.65
+深入理解Android,7.9,(106人评价),邓凡平/机械工业出版社/2011-9-5/69.00元
+编程精粹,9.0,(126人评价),SteveMaguire/人民邮电出版社/2009.2/45.00元
+操作系统真象还原,8.2,(17人评价),郑钢/人民邮电出版社/2016-3/108.00
+可能与不可能的边界,7.5,(182人评价),[美]LanceFortnow/杨　帆/人民邮电出版社/2014-1/39.00
+深入浅出数字信号处理,9.4,(23人评价),江志红/2012-1/42.00元
+计算机程序设计艺术(第3卷)-排序和查找(英文影印版),9.1,(95人评价),（美）DonaldE.Knuth/清华大学出版社/2002-9/85.00元
+The TCP/IP Guide,9.4,(28人评价),CharlesM.Kozierok/NoStarchPress/2005-10-01/USD89.95
+The Elements of Programming Style, 2nd Edition,9.3,(41人评价),BrianW.Kernighan、P.J.Plauger/McGraw-Hill/1978-1-1/USD50.93
+Conceptual Blockbusting,9.0,(35人评价),JamesL.Adams/BasicBooks/2001-10/USD16.95
+数学世纪,9.0,(40人评价),皮耶尔乔治·奥迪弗雷迪/胡作玄、胡俊美、于金青/上海科学技术出版社/2012-1/28.00元
+Open Stack设计与实现,8.0,(31人评价),英特尔开源技术中心/电子工业出版社/2015-5/79.00元
+An Introduction to GCC,8.7,(92人评价),BrianJ.Gough、RichardM.Stallman/NetworkTheoryLtd./2004-3-30/USD19.95
+虚拟机,8.3,(67人评价),[美]JamesE.Smith、RaviNair/安虹、张昱、吴俊敏/机械工业出版社/2009-3/78.00元
+Generative Design,9.5,(25人评价),HarmutMohnacker、BenediktGross、JuliaLaub/PrincetonArchitecturalPress/2012-10-1/USD100.00
+编程卓越之道,8.3,(163人评价),HydeR/韩东海/电子工业出版社/2006-4-1/49.80
+比特币,7.2,(383人评价),李钧、长铗/中信出版社/2014-1-1/39.00元
+编程的修炼（中英双语）,7.9,(18人评价),[荷]EdsgerW.Dijkstra/裘宗燕/电子工业出版社/2013-7/79.00元
+加密与解密,8.4,(198人评价),段钢/电子工业出版社/2008-7/59.00元
+Programming Languages,8.1,(12人评价),ShriramKrishnamurthi/2007/usd9.99
+数据结构与算法：Python语言描述,7.2,(15人评价),裘宗燕/机械工业出版社/2016-1/CNY45.00
+发布！软件的设计与部署,7.7,(35人评价),[美]MichaelT.Nygard/凃鸣/人民邮电出版社/2015-2-1/49.00元
+多处理器编程的艺术,8.3,(39人评价),NirShavit、MauriceHerlihy/MorganKaufmann/2008-8/69.00元
+搜索引擎,8.3,(99人评价),W.BruceCroft、DonaldMetzler、TrevorStrohman/刘挺、秦兵、张宇、车万翔/机械工业出版社/2010-6-1/56.00元
+深入解析Mac OS X &amp; iOS操作系统,8.1,(29人评价),莱文(JonathanLevin)/郑思遥、房佩慈/清华大学出版社/2014-3-1/108.00
+Unix/Linux编程实践教程,9.2,(316人评价),BruceMolay、杨宗源、黄海涛/杨宗源、黄海涛/清华大学出版社/2004-10-1/56.00元
+编程ING,7.3,(166人评价),蔡学镛/电子工业出版社/2012-7/68.00元
+正则表达式必知必会,8.6,(317人评价),BenForta/杨涛、王建桥、杨晓云/人民邮电出版社/2007/29.00元
+操作系统概念（第六版）,7.6,(153人评价),（美）西尔伯斯查兹/郑扣根/高等教育出版社/2005-11/55.00元
+TCP/IP协议族,9.0,(61人评价),福罗赞/王海张娟等译、谢希仁审校/清华大学出版社/2011-1/99.00元
+统计学习理论,8.7,(56人评价),VladimirN.vapnik/许建华、张学工/第1版(2004年1月1日)/2004-6-1/59.00
+计算几何,9.0,(56人评价),MarkdeBerg、OtfriedCheong、MarcvanKreveld、MarkOvermars/邓俊辉/清华大学/2005-9/39.80元
+Android编程权威指南,8.6,(193人评价),[美]BillPhillips、[美]BrianHardy/王明发/人民邮电出版社/2014-4-1/CNY99.00
+A Byte of Python,8.8,(897人评价),SwaroopCH/沈洁元/LuluMarketplace/2008-10-1/USD27.98
+R语言编程艺术,8.4,(174人评价),（美）NormanMatloff/陈堰平、邱怡轩、潘岚锋等/机械工业出版社/2013-5/69.00
+高可用MySQL,8.0,(81人评价),)CharlesBellMatsKindahlLarsThalmann/宁青、唐李洋诸云萍/电子工业出版社/2011-10/98.00元
+写给程序员的数据挖掘实践指南,8.1,(36人评价),[美]RonZacharski/王斌/人民邮电出版社/2015-10-24/59.00
+High Performance Python,7.7,(18人评价),MichaGorelick、IanOzsvald/O&#39;ReillyMedia/2014-9-10/USD39.99
+海量数据库解决方案,8.6,(50人评价),李华植/电子工业出版社/2010-10/69.00元
+Learn You a Haskell for Great Good!,9.2,(280人评价),MiranLipovaca/NoStarchPress/2011-4-11/44.95
+搜索引擎,8.1,(222人评价),李晓明/科学出版社发行部/2005-4/33.00元
+垃圾收集,8.2,(55人评价),琼斯/谢之易/人民邮电出版社/2004-4-1/45.00元
+数理逻辑,9.2,(41人评价),艾宾浩斯(EbbinghausH.D.)、J.Flum、W.Thomas/世界图书出版公司/2008-5/45.00元
+Hadoop技术内幕,8.3,(116人评价),董西成/机械工业出版社/2013-4/69.00元
+Effective java 中文版（第2版）,9.1,(1118人评价),JoshuaBloch/俞黎敏/机械工业出版社/2009-1-1/52.00元
+深入理解计算机网络,8.3,(43人评价),王达/机械工业出版社/2013-1-1/89.00元
+Windows内核原理与实现,8.6,(102人评价),潘爱民/电子工业出版社/2010年4月/99.00元
+深度探索C++对象模型,9.1,(1340人评价),[美]StanleyB.Lippman/侯捷/华中科技大学出版社/2001-5/54.00元
+深入Linux设备驱动程序内核机制,9.4,(35人评价),陈学松/电子工业出版社/2012-1/98.00元
+征服C指针,8.1,(125人评价),前桥和弥/吴雅明/人民邮电出版社/2013-2/49.00元
+系统设计的一般原理,8.3,(87人评价),杰拉尔德・温伯格、丹妮拉・温伯格/张剀、王佳/清华大学出版社/2004-1/29.80元
+软件测试,7.9,(285人评价),[美]RonPatton/张小松、王珏、曹跃/机械工业出版社/2006-4/30.00元
+Python高级编程,7.7,(213人评价),TarekZiadé/姚军、夏海轮、译/人民邮电出版社/2010-1/45.00元
+C专家编程,9.2,(1718人评价),PeterVanDerLinden/徐波/人民邮电出版社/2008-2/45.00元
+The Haskell Road to Logic, Maths and Programming. Second Edition,7.5,(11人评价),KeesDoets、JanvanEijck/CollegePublications/2004-5-7/USD22.75
+UNIX编程环境,8.7,(231人评价),BrianW.Kernighan、RobPike/陈向群/等/机械工业出版社/1999-10-1/24.00
+机器学习,7.7,(96人评价),（美）DrewConway、JohnMylesWhite/陈开江、刘逸哲、孟晓楠、罗森林审校/机械工业出版社/2013-4-1/69.00元
+Learn Python the Hard Way,8.4,(289人评价),ZedA.Shaw/Addison-WesleyProfessional/2013-10-11/USD39.99
+TCP/IP路由技术（第一卷）（第二版）,9.5,(108人评价),（美）多伊尔，（美）卡罗尔/葛建立、吴剑章/人民邮电出版社/2007-1/99.00元
+通信之道——从微积分到5G,8.4,(42人评价),杨学志编著/电子工业出版社/2016-2/79
+计算机的心智,8.2,(233人评价),邹恒明/机械工业出版社/2009-4/38.00元
+算法时代,6.5,(42人评价),LukeDormehl/胡小锐、钟毅/中信出版集团/2016-4-1/CNY59.00
+TCP/IP详解 卷2：实现,9.1,(308人评价),史蒂文斯/陆雪莹/机械工业出版社/2004-1/78.00元
+Python标准库,8.5,(109人评价),DougHellmann/刘炽/机械工业出版社华章公司/2012-6-15/139.00元
+Debug Hacks中文版,8.3,(113人评价),吉岡弘隆、大和一洋、大岩尚宏、安部東洋、吉田俊輔/马晶慧/电子工业出版社/2011-8/69.00元
+啊哈C！思考快你一步,8.0,(100人评价),啊哈磊/电子工业出版社/2013-9/39.00元
+你必须知道的495个C语言问题,8.2,(206人评价),SteveSummit/孙云、朱群英/人民邮电出版社/2009-2/45.00元
+黑客与设计：剖析设计之美的秘密,7.4,(72人评价),[美]DavidKadavy/苑永凯/人民邮电出版社/2014-4/79.00
+初等数论及其应用,8.9,(35人评价),KennethH．Rosen/夏鸿刚/机械工业出版社/2009-6-1/68.00元
+The Linux Programming Interface,9.5,(132人评价),MichaelKerrisk/NoStarchPress/April2010/$99.95
+概率与计算,8.4,(47人评价),米曾马克/史道齐/机械工业出版社/2007/39.00元
+Python编程实战,7.6,(39人评价),[美]MarkSummerfield/爱飞翔/机械工业出版社/2014-8/69.00元
+算法谜题,7.9,(32人评价),AnanyLevitin、MariaLevitin/赵勇、徐章宁、高博/人民邮电出版社/2014-1-1
+函数式编程思维,7.6,(61人评价),[美]NealFord/郭晓刚/人民邮电出版社/2015-8/49.00元
+算法I～IV（C++实现）――基础、数据结构、排序和搜索（第三版）,8.6,(94人评价),RobertSedgewick/张铭泽、赵剑云、梁勇/中国电力出版社/2004-2-1/55.00
+五子连珠必胜法,8.8,(42人评价),新井华石/张书/人民体育出版社/1997-10/12.00元
+编程之道,8.0,(319人评价),GeoffreyJames/郭海/电子工业出版社/2006/28.00元
+TeXbook,9.5,(83人评价),DonaldE.Knuth/Addison-WesleyProfessional/01January,1984/$44.99
+软件工程,7.7,(148人评价),普雷斯曼/郑人杰/机械工业出版社/2007-1/69.00元
+Python计算机视觉编程,7.8,(21人评价),[瑞典]JanErikSolem/朱文涛、袁勇/人民邮电出版社/2014-6-10/69.00
+The Little MLer,9.3,(17人评价),MatthiasFelleisen/TheMITPress/December19,1997/$30.00
+C算法（第二卷：图算法）（第3版）,8.3,(27人评价),塞德威克(SedgewickRobert)/周良忠/第1版(2004年1月1日)/2004-4/38.0
+干净的数据：数据清洗入门与实践,8.6,(少于10人评价),[美]MeganSquire/任政委/人民邮电出版社/2016-5/49.00元
+TCP/IP详解 卷3：TCP事务协议、HTTP、NNTP和UNIX域协议,8.8,(139人评价),史蒂文斯/胡谷雨/机械工业出版社/2000-9/35.00元
+3D数学基础,7.9,(218人评价),(美)邓恩、帕贝利|译者、（美）帕贝利（Parberry,I.）、北京递归开元教育科技有限公司、审校/史银雪、陈洪、王荣静/清华大学出版社/1900-01-01/42.0
+Wireshark数据包分析实战,8.2,(98人评价),ChrisSanders/诸葛建伟、陈霖、许伟林/人民邮电出版社/2013-3/49.00元
+编程卓越之道,8.6,(109人评价),海德/张菲/电子工业出版社/2007-4/69.00元
+Python Cookbook,7.6,(292人评价),AlexMartelli、AnnaRavenscroft、DavidAscher/高铁军/人民邮电出版社/2010-5-1/99.00元
+情感计算,8.2,(33人评价),皮卡德/罗森林/北京理工大学出版社/2005-4/22.00元
+并行程序设计原理,8.5,(25人评价),[美]CalvinLin、[美]LawrenceSnyder/陆鑫达、林新华/机械工业出版社/2009-7/45.00元
+ML程序设计教程,8.5,(49人评价),保罗森/柯韦/机械工业出版社/2005-5/45.00元
+可变目标C编译器,8.2,(38人评价),ChristopherW.Fraser、DavidR.Hanson/王挺/电子工业出版社/2005-1-1/43.00
+C++反汇编与逆向分析技术揭秘,8.1,(76人评价),钱林松、赵海旭/机械工业出版社华章公司/2011-10/69.00元
+经典密码学与现代密码学,7.5,(63人评价),(美)斯皮尔曼/叶阮健曹英张长富/清华大学出版社/2005-7/35.0
+python黑帽子,7.9,(37人评价),[美]JustinSeitz/孙松柏、李聪、润秋/电子工业出版社/2015-8-1/55
+Oracle性能诊断艺术,9.1,(67人评价),ChristianAntognini/童家旺，胡怡文，冯大辉/人民邮电出版社/2009-10/75.00元
+python绝技：运用python成为顶级黑客,7.0,(20人评价),[美]TJO&#39;Connor/崔孝晨、武晓音/电子工业出版社/2016-1/79.00元
+Intel® 64 and IA-32 Architectures Software Developer&#39;s Manual,9.6,(25人评价),Intel/IntelCorporation/2006
+机器视觉算法与应用,8.6,(33人评价),杨少荣/清华大学出版社/2008-11/69.00元
+算法之道,7.6,(182人评价),邹恒明/机械工业出版社/2010-2/39.00元
+算法问题实战策略,7.8,(少于10人评价),[韩]具宗万/崔盛一/人民邮电出版社/2015-2/119.00元
+Grokking Algorithms,9.3,(11人评价),AdityaBhargava/ManningPublications/2015-12-31/USD44.99
+网络流,7.8,(42人评价),拉文德拉K.阿胡亚　托马斯L.马南提　詹姆斯B.沃林/机械工业出版社/2005-5/108.0
+Algorithms Unlocked,9.2,(19人评价),ThomasH.Cormen/TheMITPress/2013-3-1/USD25.00
+Mastering OpenCV with Practical Computer Vision Projects,8.7,(23人评价),DanielLélisBaggio、ShervinEmami、DavidMillánEscrivá、KhvedcheniaIevgen、NaureenMahmood、JasonSaragih、RoyShilkrot/PacktPublishing/2012-12/$63.43
+计算机视觉中的数学方法,7.4,(22人评价),吴福朝/2008-3/48.00元
+看透Spring MVC,8.6,(15人评价),韩路彪/机械工业出版社/2016-1-1/CNY69.00
+图论导引,9.4,(47人评价),韦斯特/机械工业出版社/2006-2/65.00元
+UNIX网络编程,9.2,(844人评价),史蒂文斯、芬纳、鲁道夫/杨继张/清华大学出版社/2006-1/98.00元
+数字设计和计算机体系结构,8.8,(25人评价),陈虎/机械工业出版社/2009-5/58.00元
+Mathematics for 3D Game Programming and Computer Graphics, 3rd Edition,8.0,(24人评价),EricLengyel/CourseTechnologyPTR/2011-6-2/USD69.99
+数据结构,9.1,(106人评价),霍罗威茨/机械工业出版社/2006-7-1/48.00元
+嗨翻C语言,8.1,(74人评价),[美]DavidGriffiths、[美]DawnGriffiths/程亦超/人民邮电出版社/2013-9/99.00
+深入搜索引擎,7.6,(89人评价),ianH.Witten、AlistairMoffat、TimothyC.Bell/梁斌/电子工业出版社/2009-6/79.00元
+C和指针,9.0,(1078人评价),KennethA.Reek/徐波/人民邮电出版社/2008年4月/65.00元
+程序员面试逻辑题解析,7.7,(16人评价),萨沙/朱学武、费若愚/人民邮电出版社/2013-1/35.00元
+代码大全（第2版）,9.3,(3217人评价),[美]史蒂夫·迈克康奈尔/金戈、汤凌、陈硕、张菲译、裘宗燕审校/电子工业出版社/2006-3/128.00元
+Data-intensive Text Processing With Mapreduce,8.9,(52人评价),JimmyLin、ChrisDyer/MorganandClaypoolPublishers/2010-4-30/USD40.00
+C++编程思想（第1卷）,8.3,(665人评价),[美]BruceEckel/刘宗田、袁兆山、潘秋菱/机械工业出版社/2002-9/59.00元
+死亡之旅,8.3,(48人评价),EdwardYourdon/杨华/机械工业出版社华章公司/2011-11-20/49.00元
+Machine Learning,8.1,(19人评价),StephenMarsland/Chapman&amp;Hall/CRC/2009/USD72.95
+分布式系统概念与设计,7.2,(37人评价),GeorgeCoulouris/金蓓弘/机械工业出版社/2008-1/69.00元
+深入浅出Node.js,8.7,(618人评价),朴灵/人民邮电出版社/2013-12-1/CNY69.00
+密码学基础,7.7,(10人评价),Goldreich/电子工业出版社/2003-1/39.00元
+PostgreSQL 数据库内核分析,7.5,(39人评价),彭智勇、彭煜玮/机械工业出版社华章公司/2012-1/79.00元
+Mahout in Action,8.1,(89人评价),SeanOwen、RobinAnil、TedDunning、EllenFriedman/ManningPublications/2010-11-28/USD44.99
+从问题到程序,8.6,(50人评价),裘宗燕/机械工业出版社/2005-9-1/36.00元
+Understanding Machine Learning,7.9,(16人评价),ShaiShalev-Shwartz、ShaiBen-David/CambridgeUniversityPress/2014/USD48.51
+真实世界的Python仪器监控,7.4,(23人评价),约翰·休斯/OBPGroup/电子工业出版社/2013-1/89.00元
+Linux内核完全剖析,8.9,(149人评价),赵炯/机械工业出版社/2008.10/99.00元
+flex与bison（中文版）,8.0,(60人评价),JobnLevine/陆军/东南大学出版社/2011-3/49.00元
+FreeBSD操作系统设计与实现,8.5,(65人评价),(美)麦库西克/人民邮电出版社/2006-2/69.00元
+电子电气工程师必知必会,8.7,(107人评价),（美）阿什比/尹华杰/人民邮电出版社/2009-1/39.00元
+编译原理及实践,7.6,(117人评价),KennethC.Louden/冯博琴/机械工业出版社/2000-3-1/39.00元
+LINUX系统编程,8.0,(90人评价),RobertLove/O&#39;ReillyTaiwan公司/东南大学出版社/2009-7/56.00元
+An Introduction to Functional Programming Through Lambda Calculus,7.8,(15人评价),GregMichaelson、Mathematics/DoverPublications/2011-8-18/USD24.95
+计算机程序设计艺术：第4卷 第4册（双语版）,9.7,(21人评价),DonaldE.Knuth/苏运霖/机械工业出版社/2007-4/42.00元
+Java开发实战经典,8.4,(82人评价),李兴华编著/清华大学出版社/2009-8/79.80元
+Practical Foundations for Programming Languages,8.2,(少于10人评价),RobertHarper/CambridgeUniversityPress/2016-4-4/USD80.74
+嵌入式Linux应用开发完全手册,7.5,(90人评价),韦东山主编/人民邮电出版社/2008-8/69.00元
+程序员健康指南,9.0,(126人评价),JoeKutner/陈少芸/人民邮电出版社/2014-9-20/31.60元
+Common Lisp,8.4,(29人评价),DavidS.Touretzky/Benjamin-CummingsPubCo/1989
+The Scheme Programming Language,7.3,(35人评价),R.KentDybvig/TheMITPress/2003-9-26/USD40.00
+Python数据可视化编程实战,9.0,(10人评价),IgorMilovanovic/颛清山/人民邮电出版社/2015-5-1/49.00元
+C语言名题精选百则技巧篇,8.5,(41人评价),冼镜光/机械工业出版社/2005-7/44.00元
+Combinatorial Optimization,7.3,(29人评价),ChristosH.Papadimitriou、KennethSteiglitz/DoverPublications/1998-1/USD21.95
+SpringBoot 揭秘,8.4,(23人评价),王福强/机械工业出版社/2016-5/59.00元
+Android软件安全与逆向分析,8.0,(86人评价),丰生强/人民邮电出版社/2013-2/69.00元
+Lambda-Calculus and Combinators,7.8,(少于10人评价),J.RogerHindley、JonathanP.Seldin/CambridgeUniversityPress/2008-8-11/USD84.99
+大象,9.2,(254人评价),谭云杰/中国水利水电出版社/2009年01月/68.00元
+计算机组织与体系结构,7.5,(34人评价),斯托林斯/清华大学出版社/2006-3/66.00元
+Effective C++中文版,9.0,(1273人评价),[美]ScottMeyers/侯捷/华中科技大学出版社/2001-9/49.80元
+Python编程实践,7.2,(85人评价),JenniferCampbell、PaulGries、JasonMontojo、GregWilson/唐学韬/机械工业出版社华章公司/2011-12-31/49.00元
+正则指引,8.5,(198人评价),余晟/电子工业出版社/2012-5-1/58.00元
+ACM图灵奖演讲集,7.8,(77人评价),阿申豪斯特/苏运霖/电子工业出版社/2005-4/55.0
+Rationality for Mortals,8.3,(21人评价),GerdGigerenzer/OxfordUniversityPress,USA/2008-05-02/USD65.00
+Computers and Intractability,9.5,(29人评价),MichaelR.Garey、DavidS.Johnson/W.H.Freeman/1979-1-15/$97.17
+大型网站性能监测、分析与优化,8.6,(少于10人评价),唐文/电子工业出版社/2016-6
+深入理解Java虚拟机,8.3,(648人评价),周志明/机械工业出版社/2011-6/69.00元
+程序设计语言原理,6.8,(41人评价),（美）賽巴斯塔（Sebesta，R.W.）/张勤,王方矩/机械工业出版社/2008-6-1/75.00元
+深度学习：21天实战Caffe,8.1,(26人评价),赵永科/电子工业出版社/79
+MATLAB在数学建模中的应用,7.1,(67人评价),卓金武编/北京航空航天大学/2011-4/34.80元
+前端函数式攻城指南,8.5,(16人评价),欧阳继超/电子工业出版社/2016-10-1/59
+矩阵分析,8.5,(54人评价),（美）合恩（Horn/R.A.）等/杨奇/张明尧、张凡/机械工业出版社/2005-01-01/45.0
+EECS应用概率论,9.3,(少于10人评价),[美]JeanWalrand/黄隆波/人民邮电出版社/2015-9-30/69.00元
+数据结构与算法,7.8,(45人评价),德罗兹德克/周翔/机械工业出版社/2006-7/59.00元
+挑战程序设计竞赛2 算法和数据结构,8.8,(少于10人评价),[日]渡部有隆/支鹏浩/2016-9-1
+Real-Time Collision Detection,7.9,(20人评价),ChristerEricson/CRCPress/2004-12-22/USD98.95
+GPU高性能编程CUDA实战,7.7,(65人评价),JasonSanders、EdwardKandrot/聂雪军/机械工业出版社/2011-3-1/39.00元
+Windows内核情景分析,9.1,(76人评价),毛德操/电子工业出版社/2009-5/190.00元
+琢石成器,9.2,(77人评价),罗云彬/电子工业出版社/2009-6/89.00元
+Instructor&#39;s Manual t/a Structure and Interpretation of Computer Programs,9.5,(63人评价),GeraldJaySussman/TheMITPress/1998-9-15/USD29.00
+C语言参考手册(原书第5版),8.0,(33人评价),SamuelP.Harbison、GuyL.Steele/邱仲潘/机械工业出版社/2004-2-1/39.00元
+信用风险评分卡研究,8.8,(26人评价),马杜姆.雷法特/王松奇、林智乾/社会科学文献出版社/2013-7/58.00
+编译系统透视,6.9,(14人评价),新设计团队/机械工业出版社/2016-3-25/169.00元
+Pearls of Functional Algorithm Design,8.4,(24人评价),RichardBird/CambridgeUniversityPress/2010-11-1/USD68.00
+离散数学与组合数学,8.8,(24人评价),(美)RalphP.Grimaldi/林永钢/清华大学出版社/2007-05-01/98.00元
+计算机算法的设计与分析,8.0,(29人评价),AlfredV.Aho(阿霍)、JohnE.Hopcroft(霍普克劳夫特)、JeffreyD.Ullman(乌尔曼)/机械工业出版社/2007-7-1/49.00元
+数据结构与算法JavaScript描述,6.3,(76人评价),[美]MichaelMcMillan/王群锋、杜　欢/人民邮电出版社/2014-8/49.00元
+大数据时代的历史机遇——产业变革与数据科学,7.7,(114人评价),赵国栋、易欢欢、糜万军、鄂维南/清华大学出版社/2013-7/49
+CCNA学习指南,8.5,(212人评价),[美]ToddLammle/程代伟、徐宏、池亚平/电子工业出版社/2008-2/80.00元
+计算机图形学,7.5,(132人评价),（美）赫恩（DonaldHearn）、（美）M.PaulineBaker/宋继强、蔡敏、蔡士杰/电子工业出版社/2005-6/65.00元
+复杂网络理论及其应用,7.8,(113人评价),汪小帆、李翔、陈关荣/清华大学出版社/2006/45.00元
+最优化导论,8.8,(少于10人评价),EdwinK.P.Chong、StanislawH.Zak/孙志强、白圣建、郑永斌、刘伟/电子工业出版社/2015-10/89.00
+ARM嵌入式系统开发,8.0,(89人评价),斯洛斯/北京航大/2005-5/75.00元
+Linux操作系统之奥秘,9.0,(168人评价),邱世华/电子工业出版社/2008-5/39.00元
+Randomized Algorithms,7.5,(35人评价),RajeevMotwani、PrabhakarRaghavan/CambridgeUniversityPress/1995-8-25/USD94.99
+大话存储Ⅱ,8.6,(104人评价),张冬/清华大学出版社/2011-5/99.00元
+More Effective C++中文版,8.9,(439人评价),Scottmeyers/侯捷/中国电力出版社/2003-3/50.00元
+Linux程序设计,8.5,(345人评价),马修/陈健/人民邮电出版社/2007-7/89.00元
+离散数学,8.5,(35人评价),多西/章炯民、王新伟、曹立/机械工业/2007-6/55.00元
+Windows用户态程序高效排错,8.4,(103人评价),熊力/电子工业出版社/2007-12/35.00元
+分布式系统原理与范型,7.0,(93人评价),（美）特尼博姆/辛春生/清华大学出版社/2008-6-1/59.00元
+蝴蝶效应之谜：走近分形与混沌,8.2,(166人评价),张天蓉/清华大学出版社/2013-7-1/29
+群体智能,8.6,(27人评价),JamesKennedy、RussellCEberhart、YuhuiShi/人民邮电出版社/2009-2-1/75.00元
+人件集,8.1,(26人评价),LarryL.Constantine/谢超、刘颖、谢卓凡、李虎/机械工业出版社/2011-12-1/49.00元
+Python Programming,8.0,(26人评价),JohnM.Zelle/FranklinBeedle&amp;Assoc/2003-12/USD40.00
+C++ Primer 中文版（第 4 版）,9.2,(4069人评价),StanleyB.Lippman、JoséeLaJoie、BarbaraE.Moo/李师贤、蒋爱军、梅晓勇、林瑛/人民邮电出版社/2006/99.00元
+统计学习方法,8.9,(861人评价),李航/清华大学出版社/2012-3/38.00元
+The Java™ Virtual Machine Specification,7.9,(25人评价),TimLindholm、FrankYellin/Addison-WesleyProfessional/1999-4-24/USD49.99
+游戏人工智能编程案例精粹,9.0,(90人评价),巴克兰德(MatBuckland)/罗岱/人民邮电出版社/2008年06月/55.00元
+计算机算法,9.1,(29人评价),Baase/高等教育出版社/2001-7-1/39.5
+柔性字符串匹配,8.5,(52人评价),纳瓦罗/中科院计算所网络信息安全研究组/电子工业/2007-3/38.00元
+Python for Kids,8.1,(24人评价),JasonR.Briggs/NoStarchPress/2012-12-22/USD34.95
+世界的逻辑构造,8.8,(74人评价),[德]鲁道夫·卡尔纳普/陈启伟/上海译文出版社/2008-6/30.00
+游戏开发物理学,7.8,(53人评价),DavidM.Bourg/O&#39;ReillyTaiwan公司/电子工业出版社/2004-1/48.00元
+Computational Complexity,9.3,(29人评价),SanjeevArora、BoazBarak/CambridgeUniversityPress/2009/$55.00
+Lisp in Small Pieces,8.2,(16人评价),ChristianQueinnec/Callaway,Kathleen/CambridgeUniversityPress/2003-12-04/USD80.00
+人工智能,7.9,(60人评价),耐格纳威斯基/顾力栩/机械工业出版社/2007-4/36.00元
+Oracle SQL高级编程,8.4,(30人评价),[美]KarenMorton、KerryOsborne、RobynSands、RiyajShamsudeen、JaredStill/朱浩波/人民邮电出版社/2011-11/89.00元
+Advanced Data Structures,7.7,(10人评价),PeterBrass/CambridgeUniversityPress/2008-9-8/USD80.00
+Android安全攻防权威指南,7.2,(10人评价),[美]JoshuaJ.Drake、[西]PauOlivaFora、[美]ZachLanier、[美]CollinMulliner、[美]StephenA.Ridley、[德]GeorgWincherski/诸葛建伟、杨　坤、肖梓航/人民邮电出版社/2015-3/89.00元
+Numerical Linear Algebra,8.9,(36人评价),LloydN.Trefethen、DavidBauIII/SIAM:SocietyforIndustrialandAppliedMathematics/1997-06-01/USD61.00
+Functional Programming in Scala,8.9,(30人评价),PaulChiusano、RúnarBjarnason/Softboundprint/2014-9-14/USD44.99
+图形程序开发人员指南,9.5,(21人评价),MichaelAbrash/前导工作室/机械工业出版社/1998/128
+微服务设计,8.2,(145人评价),[英]SamNewman/崔力强、张　骏/人民邮电出版社/2016-5/69.00元
+TCP/IP网络编程,8.7,(37人评价),[韩]尹圣雨/金国哲/人民邮电出版社/2014-7/79.00元
+Web性能权威指南,8.9,(172人评价),IlyaGrigorik/李松峰/人民邮电出版社/2013-9/69
+程序设计语言的形式语义,8.1,(21人评价),GlynnWinskel/宋国新等/中信出版社机械工业出版社/2004-1/32.00元
+深入浅出密码学,7.5,(16人评价),ChristofPaar、JanPelzl/马小婷/清华大学出版社/2012-9/59.00元
+谁排第一,9.4,(少于10人评价),AmyN.Langville、CarlD.Meyer/郭斯羽/机械工业出版社/2014-6/49
+The Elements of Statistical Learning,9.2,(388人评价),TrevorHastie、RobertTibshirani、JeromeFriedman/Springer/December2008/USD89.95
+Introduction to Modern Cryptography,7.8,(35人评价),JonathanKatz、YehudaLindell/ChapmanandHall/CRC/2007-8-31/USD89.95
+The Reasoned Schemer,7.4,(15人评价),DanielP.Friedman、WilliamE.Byrd、OlegKiselyov/TheMITPress/2005-10-14/USD32.00
+计算机导论,8.6,(13人评价),诺顿/清华大学出版社/2009-1/49.80元
+深入浅出Networking,7.9,(71人评价),(美)AlAnderson(埃尔.安德森)、RyanBenedetti(瑞安.班纳带蒂)/徐定翔/电子工业出版社/2011-10/75.00元
+TCP/IP高效编程,8.7,(81人评价),JonC.Snader/陈涓、赵振平/人民邮电出版社/2011-4/55.00元
+程序员实用算法,7.3,(98人评价),AndrewBinstock、JohnRex/陈宗斌/机械工业出版社/2009-9/65.00元
+游戏开发中的人工智能,7.6,(105人评价),DavidM.Bourg、GlennSeemann/O&#39;ReillyTaiwan公司/东南大学出版社/2006/48.00元
+灰帽黑客,7.6,(25人评价),[美]AllenHarper、[美]ShonHarris/杨明军、韩智文、程文俊/清华大学出版社/2012-11/79.80元
+计算机不能做什么：人工智能的极限,7.4,(16人评价),休伯特--德雷福斯/宁春岩/生活.读书.新知三联书店/1986/2.25
+代码之髓,8.0,(176人评价),[日]西尾泰和/曾一鸣/人民邮电出版社/2014-8/45.00元
+Reversing,8.3,(21人评价),艾拉姆（Eilam,E.）/韩琪、杨艳、王玉英、李娜/电子工业出版社/2007-9/79.00元
+程序设计抽象思想,8.9,(26人评价),EricS.Roberts、闪四清/闪四清/清华大学出版社/2005-6/78.00元
+LEMON语法分析生成器,7.3,(18人评价),虞森林/浙江大学/2006-7/58.00元
+密码学原理与实践,7.9,(31人评价),[加]DouglasR.Stinson/冯登国/电子工业出版社/2009年/55.00元
+密码编码学与网络安全,8.0,(108人评价),斯托林斯/电子工业出版社/2006-11/49.80元
+深入Java虚拟机(原书第2版),8.6,(544人评价),（美）文纳斯/曹晓钢、蒋靖/机械工业出版社/2003-9/58.00元
+RabbitMQ in Action,8.0,(37人评价),AlvaroVidela、JasonJ.W.Williams/ManningPublications/2012-5-4/USD44.99
+通信原理,8.6,(156人评价),周炯槃/庞沁华等编/北京邮电大学出版社/2005-11/46.00元
+C语言接口与实现,8.3,(120人评价),（美）DavidR.Hanson/傅蓉、周鹏、张昆琪、权威/机械工业出版社/2004-1/35.00元
+自己动手写编译器、链接器,6.7,(23人评价),王博俊、张宇/清华大学出版社/2015-1-1/37.80
+图论简明教程,8.4,(36人评价),FredBuckley、MartyLewinter/李慧霸、王凤芹/清华大学出版社/2005-1-1/39.0
+计算机图形学几何工具算法详解,8.0,(29人评价),史奈德/周长发/电子工业出版社/2005-1-1/89.00
+MATLAB智能算法30个案例分析,7.8,(25人评价),史峰、王辉、胡斐、郁磊/北京航空航天大学出版社/2011-7-1/39.00元
+多核计算与程序设计,7.8,(38人评价),周伟明/华中科技大学/2009-3/88.00元
+The Grammar of Graphics,7.8,(10人评价),LelandWilkinson/Springer/2013-7/$145.77
+Web数据挖掘,7.7,(101人评价),刘兵/俞勇/清华大学出版社/2009-4/49.00元
+Advanced Topics in Types and Programming Languages,7.5,(少于10人评价),Pierce,BenjaminC.编/TheMITPress/2004-12-23/USD74.00
+程序设计语言理论基础,8.2,(11人评价),米切尔/电子工业出版社/2006-11/68.00元
+图论导引,8.8,(36人评价),[美]GaryChartrand，（美/范益政、王毅/人民邮电出版社/2007-1/49.00元
+Algorithm Design,6.1,(25人评价),MichaelT.Goodrich、RobertoTamassia/Wiley/2001-09-15/USD83.95
+架构探险――从零开始写Java Web框架,7.1,(36人评价),黄勇/电子工业出版社/2015-8-1/79.00
+大数据架构商业之路:从业务需求到技术方案,8.4,(18人评价),[中]黄申/机械工业出版社/2016-5-9/69.00元
+编程匠艺,7.8,(128人评价),（美）古德利弗（Goodliffe,P.）著/韩江，陈玉译/电子工业出版社/2008-9/79.00元
+爱上Processing,8.1,(140人评价),GaseyReas&amp;BenFry/陈思明、郭浩贇/人民郵電出版社/2012-4/38.00元
+程序员的呐喊,7.6,(284人评价),[美]SteveYegge/徐旭铭/人民邮电出版社/2014-5-1/45.00元
+x86/x64体系探索及编程,7.4,(18人评价),邓志/电子工业出版社/2012-10-1/119.00元
+谁说菜鸟不会数据分析（工具篇）,7.4,(135人评价),张文霖，狄松，林凤琼等/电子工业出版社/2013-6-1/49.00
+软件调试修炼之道,7.4,(43人评价),PaulButcher/曹玉琳/人民邮电出版社/2011-6/32.00元
+计算机图形学原理及实践:C语言描述(原书第2版) (平装),9.1,(12人评价),福利/唐泽圣/机械工业出版社/2004-3/95.0
+Flash ActionScript 3.0 动画高级教程,7.3,(88人评价),KeithPeters/苏金国、荆涛/人民邮电出版社/2010-1/65.00元
+现代编译器的Java实现(第2版),7.7,(21人评价),Andreww.appel、陈明/陈明/电子工业出版社/2004-9-1/35.00
+Feynman Lectures on Computation,8.9,(少于10人评价),RichardP.Feynman、TonyHey/PerseusBooksGroup/2000-07/USD39.00
+代码优化,8.7,(66人评价),（美）KrisKaspersky/谭明金/电子工业出版社/2004-10/48.00元
+数据挖掘中的新方法：支持向量机,8.0,(44人评价),邓乃扬、田英杰/科学出版社/2004-6-10/53.00元
+Redis入门指南,7.8,(218人评价),李子骅/人民邮电出版社/2013-5-1/39.00元
+Quantum Computing since Democritus,7.6,(少于10人评价),ScottAaronson/CambridgeUniversityPress/2013-4-29/USD39.99
+机器学习系统设计,8.4,(57人评价),[德]WilliRichert、LuisPedroCoelho/刘峰/人民邮电出版社/2014-7-1/CNY49.00
+数据结构与算法经典问题解析,8.3,(少于10人评价),纳拉辛哈·卡鲁曼希/骆嘉伟/机械工业出版社/2016-6-1/CNY79.00
+How to Break Software,8.4,(少于10人评价),Whittaker,JamesA./Addison-Wesley/2002-5/$52.43
+探索式软件测试,7.6,(89人评价),JamesA.Whittaker/方敏;张胜、钟颂东;郭艳春/清华大学出版社/2010年4月/35.00元
+寒江独钓,8.4,(95人评价),谭文、杨潇、邵坚磊著/电子工业出版社/2009-6/75.00元
+The Art of Computer Programming, Volume 4A,8.1,(22人评价),DonaldE.Knuth/Addison-WesleyProfessional/2011-1-22/$74.99
+挑战编程,7.6,(91人评价),斯基纳/刘汝佳/2009-7/39.00元
+数字文明,8.3,(45人评价),郝柏林/张淑誉/科学出版社/2005-7/32.00元
+算法基础,7.6,(42人评价),布拉萨德/清华大学出版社/2005-7/49.0
+算法分析导论,7.7,(11人评价),（美）RobertSedgewick、（法）PhilippeFlajolet/冯舜玺、李学武、裴伟东、等其他/机械工业出版社/2006-4/38.00元
+Java Generics and Collections,8.6,(30人评价),Naftalin、PhilipWadler/O&#39;ReillyMedia/2006-10-24/USD34.99
+计算机文化,8.7,(50人评价),[美]JuneJamrichP/机械工业出版社/2006-9/59.00元
+数量金融(原书第2版)(第1卷),8.2,(少于10人评价),保罗·威尔莫特/郑振龙、陈蓉、史若燃/机械工业出版社/2015-4/119.00元
+The Nature of Statistical Learning Theory,8.3,(17人评价),VladimirVapnik/Springer/1999-11-19/USD104.00
+世界大学生程序设计竞赛,7.3,(22人评价),吴文虎、王建德/中国铁道出版社/2009-7/42.00元
+社会网络分析,7.6,(15人评价),斯坦利·沃瑟曼(StanleyWasserman)、凯瑟琳·福斯特(KatherineFaust)/中国人民大学出版社/2012-4-1/78.00元
+机器学习基础教程,8.1,(22人评价),（英）SimonRogers,、MarkGirolami/郭茂祖、王春宇刘扬刘晓燕、刘扬、刘晓燕/机械工业出版社/2014-1/45.00
+C++模板元编程,7.9,(51人评价),DavidAbrahams、AlekseyGurtovoy/2010-1/55.00元
+凌波微步(软件开发警戒案例集),8.0,(36人评价),王咏刚、周虹/清华大学出版社/2002-11-1/42.00
+“深蓝”揭秘,8.5,(53人评价),许峰雄/上海科技教育出版社/2005-12/25.00元
+地理信息系统与科学,7.4,(33人评价),PaulA.Longley/张晶、刘瑜、张洁、田原/机械工业出版社/2007-1/75.00元
+逆袭大学,7.8,(25人评价),贺利坚/人民邮电出版社/2014-3/49.00
+人工智能,8.3,(47人评价),尼尔森/郑扣根、庄越挺/机械工业出版社/2003-12/30.00元
+泛型编程与STL,8.1,(131人评价),MatthewH.Austern/侯捷/中国电力出版社/2003-1/72.00元
+Readings in Database Systems,6.5,(16人评价),JosephM.Hellerstein、MichaelStonebraker/TheMITPress/2005-1-7/USD68.00
+数据库系统概论（第四版）,7.4,(364人评价),王珊、萨师煊/高等教育出版社/2006-5/39.00元
+像程序员一样思考,7.9,(47人评价),V.AntonSpraul/徐波/人民邮电出版社/2013-6/49.00元
+量子计算和量子信息,8.4,(35人评价),MichaelA．Nielsen、IsaacL．Chuang/清华大学出版社/2004-1/52.00元
+LUA程序设计(第2版),8.6,(361人评价),[巴西]莱鲁/周惟迪/电子工业出版社/2008-1/39.00元
+Learn You Some Erlang for Great Good!,8.2,(48人评价),FredHebert/NoStarchPress/2013-1-16/USD49.95
+开源软件文集,7.3,(84人评价),ChrisDiBona、SamOckman、MarkStone/洪峰等/中国电力出版社/1999-12-01/35.00元
+Biological Sequence Analysis,8.2,(少于10人评价),RichardDurbin、SeanR.Eddy、AndersKrogh、GraemeMitchison/CambridgeUniversityPress/1998-5-13/565.00元
+Practical Foundations for Programming Languages,8.5,(少于10人评价),RobertHarper/CambridgeUniversityPress/2012-11/USD72.81
+The Little Prover,7.4,(少于10人评价),DanielP.Friedman、CarlEastlund/TheMITPress/2015-7-10/USD38.00
+UML和模式应用,7.4,(328人评价),拉曼/李洋、郑䶮/机械工业出版社/2006-5/66.00元
+Computability,8.2,(33人评价),N.J.Cutland/CambridgeUniversityPress/1980/$31.99
+树莓派学习指南,8.8,(20人评价),[英]PeterMembrey、[澳]DavidHows/张志博、孙峻文/人民邮电出版社/2014-4/49.00元
+自己动手构造编译系统：编译、汇编与链接,7.9,(少于10人评价),范志东/机械工业出版社/2016-8-2/CNY69.00
+Objective-C编程之道,7.6,(75人评价),钟冠贤(CarloChung)/刘威/人民邮电出版社/2011-11-1/59.00元
+修改代码的艺术,8.9,(248人评价),MichaelFeathers/刘未鹏/人民邮电出版社/2007-09-25/59.00元
+计算机网络系统方法,8.0,(32人评价),[美]LarryL.Peterson、[美]BruceS.Davie/机械工业出版社/2004-1/49.00元
+数据挖掘十大算法,8.3,(23人评价),（美）吴信东（XindongWu）、（美），库玛尔，（VipinKumar）/李文波、吴素研/清华大学出版社/2013-5/39.00元
+POSIX多线程程序设计,8.2,(87人评价),[美]DavidR.Buten/中国电力出版社/2003-1/39.00元
+精通正则表达式,8.0,(971人评价),JeffreyE.F.Friedl/余晟/电子工业出版社/2007/75
+实现模式,8.1,(228人评价),KentBeck/李剑、熊节、郭晓刚/人民邮电出版社/2009-1/29.00元
+图解网站分析（修订版）,7.2,(23人评价),[日]小川卓/沈麟芸/人民邮电出版社/2014-10/69.00元
+计算理论基础,8.4,(34人评价),HarryR.Lewis、ChristosH.Papadimitriou/清华大学出版社/2006-7/29.00元
+设计师式认知,7.5,(143人评价),[英]NigelCross/任文永、陈实、沈浩翔/华中科技大学出版社/2013-4/36.00元
+操作系统设计：Xinu方法,7.0,(10人评价),(美)DouglasComer/邹恒明、周亮、曹浩、刘正邦等/机械工业出版社/2013-12/79.00
+音乐声学与心理声学,8.4,(39人评价),霍华德、安格斯/陈小平/人民邮电出版社/2010-1/75.00元
+大话处理器,7.2,(200人评价),万木杨/清华大学出版社/2011-10/36.00元
+Oracle 9i &amp; 10g编程艺术,9.2,(233人评价),ThomasKyte/苏金国、王小振/人民邮电出版社/2006-10/99.00元
+Java语言程序设计基础篇,7.9,(114人评价),梁/王镁/机械工业出版社/2006-8/58.00元
+计算机网络,7.9,(677人评价),谢希仁/电子工业出版社/2008-1/35.00元
+信号完整性分析,9.6,(38人评价),伯格丁/电子工业出版社/2005-4/39.00元
+Foundations of Computer Science,7.7,(24人评价),AlfredV.Aho、JeffreyD.Ullman/W.H.Freeman/1994-10-15/118.6
+Parallel and Distributed Computation,7.4,(少于10人评价),DimitriP.Bertsekas、JohnN.Tsitsiklis/AthenaScientific/1997-1-1/USD49.50
+永无止境,8.1,(135人评价),[美]道格拉斯•艾德华兹/刘纯毅/中信出版社/2012-12-15/59.00元
+Writing Efficient Programs,9.2,(少于10人评价),JonLouisBentley/PrenticeHallPtr/1982-5/USD25.50
+API Design for C++,8.1,(55人评价),MartinReddy/MorganKaufmann/2011-2-18/USD59.95
+The Linux Command Line,7.7,(204人评价),WilliamE.Shotts,Jr./NoStarchPress/2012-1-17/0
+计算机图形学,8.5,(26人评价),[美]SteveCunningham/石教英、潘志庚/机械工业出版社/2008-6/48.00元
+Java设计模式,8.9,(29人评价),[美]梅特斯克（Metsker,S.J.）、[美]维克（Wake,W.J.）/张逸、史磊/电子工业出版社/2012-9/75.00元
+信息可视化,6.9,(48人评价),（英）RobertSpence/陈雅茜/机械工业出版社/2012-1/59.00元
+Linux内核源代码情景分析（上册）,8.7,(172人评价),毛德操、胡希明/浙江大学出版社/2001-9/80.00元
+组合数学教程,8.7,(39人评价),范林特/刘振宏、赵振江/机械工业出版社/2007-4/49.00元
+程序开发心理学,8.4,(242人评价),（美）杰拉尔德·温伯格/邓俊辉/清华大学出版社/2004-1-1/39.00元
+从零起步学电子,8.6,(20人评价),[美]LarryD.Wolfgang/王龙、傅道坤/人民邮电出版社/2009-6/45.00元
+C++高级编程,8.8,(53人评价),索尔特/刘鑫、杨健康/机械工业出版社/2006-1/88.00元
+系统虚拟化,7.6,(68人评价),Intelcorporatio/清华大学出版社/2009-1/29.00元
+Linux系统架构与目录解析,7.5,(98人评价),邱世华/电子工业出版社/2009-4/45.00元
+Unity游戏设计与实现,9.3,(21人评价),[日]加藤政树/罗水东/人民邮电出版社/2015-2/79.00元
+软件故事,7.5,(59人评价),[美]史蒂夫·洛尔/张沛玄/人民邮电出版社/2014-7/49.00元
+计算机体系结构,7.9,(11人评价),胡伟武、陈云霁、肖俊华、章隆兵/清华大学出版社/2011-6/29.00元
+PC游戏编程,8.5,(27人评价),王小春/重庆大学出版社/2002-6-1/38.00元
+Redis设计与实现,8.5,(353人评价),黄健宏/机械工业出版社/2014-6/79.00
+学习GNU Emacs,7.8,(192人评价),[美]DebraCameron、BillRosenblatt、HricRaymond/杨涛、杨晓云、王建桥/机械工业出版社/2003-1/68.00元
+深入解析Windows操作系统,8.9,(248人评价),（美）罗斯（Russinovich,M.E.）、（美）所罗门（Solomon,D.A.）/潘爱民/电子工业出版社/2007-4/99.00元
+Concepts in Programming Languages,7.9,(少于10人评价),JohnC.Mitchell/CambridgeUniversityPress/2002-10-15/USD90.00
+Introduction to Semi-Supervised Learning,8.6,(15人评价),XiaojinZhu、AndrewB.Goldberg/MorganandClaypoolPublishers/2009-6-29/USD40.00
+COM本质论,8.1,(258人评价),[美]DonBox/潘爱民/中国电力出版社/2001-8/49.00元
+SQL入门经典,7.8,(65人评价),[美]PaulWilton、[美]JohnColby/敖富江/清华大学出版社/2006-1/48.00元
+大规模Web服务开发技术,8.1,(330人评价),伊藤直也、田中慎司/李剑/电子工业出版社/2011-7/59.00元
+H.264和MPEG-4视频压缩,7.7,(15人评价),理查森/欧阳合、韩军/国防科技大学出版社/2004-11/39.00元
+Introduction to Linear Optimization,8.9,(42人评价),DimitrisBertsimas、JohnN.Tsitsiklis/AthenaScientific/1997-02-01/USD89.00
+Ruby设计模式,8.1,(81人评价),RussOlsen/谈熠陈熙/机械工业出版社/2009-1/45.00元
+数学建模算法与应用,7.6,(18人评价),司守奎、孙玺菁/国防工业出版社/2011-8/49.00元
+分布式算法导论,8.6,(少于10人评价),泰尔/霍红卫/机械工业出版社/2004年09月/39.0
+R和Ruby数据分析之旅,6.9,(63人评价),（新加坡）SauSheongChang/钱昊、刘熙/人民邮电出版社/2013-3/45.00元
+深入理解Scala,8.8,(34人评价),[美]JoshuaD.Suereth苏瑞茨著/杨云/人民邮电出版社/2014-12/59元
+莱昂氏UNIX源代码分析,8.5,(101人评价),(澳)JohnLions/尤晋元/机械工业出版社/2000-7-1/49.00
+An Introduction to Programming with Mathematica®,7.5,(28人评价),PaulR.Wellin、RichardJ.Gaylord、SamuelN.Kamin/CambridgeUniversityPress/2005-1-31/USD96.00
+程序语言的奥妙,7.4,(26人评价),杉浦贤/李克秋/科学出版社/2012-7/32.00元
+汇编语言,7.9,(21人评价),JeffDuntemann/梁晓晖/清华大学出版社/2014-2/99元
+Basic Category Theory for Computer Scientists,8.7,(11人评价),BenjaminC.Pierce/TheMITPress/1991-8-7/USD29.00
+函数程序设计语言--计算机模型、编译技术、系统结构,8.2,(少于10人评价),郑纬民、等/清华大学出版社/1997-11/20.00
+罗彻斯特城堡,8.3,(23人评价),/机械工业出版社/2003-8/49.00元
+Introduction to Computing,8.1,(少于10人评价),DavidEvans/CreateSpaceIndependentPublishingPlatform/2011-8-15/GBP24.12
+高效能程序员的修炼,8.2,(187人评价),[美]JeffAtwood/陆其明、张健/人民邮电出版社/2013-7/49
+Google&#39;s PageRank and Beyond,9.3,(20人评价),AmyN.Langville、CarlD.Meyer/PrincetonUniversityPress/2006-7-23/USD57.50
+Linux Shell脚本攻略,8.1,(302人评价),(印)拉克什曼/门佳/人民邮电出版社/2011-11/49.00元
+提高C++性能的编程技术,7.7,(59人评价),(美)DovBulka（多夫.布尔卡）DavidMayhew（大卫.梅休）/左飞、薛佟佟/电子工业出版社/2011-3-28/59.00元
+贝叶斯统计,8.2,(45人评价),茆诗松/中国统计出版社/1999-1/15.00元
+Logical Foundations of Mathematics and Computational Complexity,8.4,(少于10人评价),PavelPudlák/Springer/2013-4-23/USD189.00
+Real World Haskell,7.9,(177人评价),BryanO&#39;Sullivan、JohnGoerzen、DonStewart/O&#39;ReillyMedia/2008-12-01/CAD49.99
+数据库系统全书,7.4,(20人评价),JeffreyD.Ullman、JenniferWidom、HectorGarcia-Molina/机械工业出版社/2003-12-1/65.00元
+软件系统架构,8.7,(12人评价),NickRozanski、EoinWoods/侯伯薇/机械工业出版社/2013-5/99.00元
+wireshark网络分析艺术,6.6,(40人评价),林沛满/人民邮电出版社/2016-2-1/45.00元
+OpenGL Insights,7.7,(少于10人评价),PatrickCozzi、ChristopheRiccio/AKPeters/CRCPress/2012-6-26/USD87.95
+计算机算法设计与分析,7.4,(131人评价),王晓东/电子工业出版社/2007-5/29.50元
+Servlet和JSP学习指南,7.5,(20人评价),BudiKurniawan/崔毅、俞哲皆、俞黎敏/机械工业出版社华章公司/2013-4-14/59.00元
+ACM图灵奖,8.3,(84人评价),吴鹤龄/高等教育/2008-1/25.00元
+社会计算,7.6,(20人评价),LeiTang、HuanLiu/文益民、闭应洲/机械工业出版社华章分社/2012-12-1/35.00元
+DBA修炼之道：数据库管理员的第一本书（原书第2版）,9.1,(少于10人评价),（美）CraigS.Mullins/褚晓霞/机械工业出版社/2014-9/129.00
+IDA Pro权威指南,8.3,(47人评价),ChrisEagle/石华耀、段桂菊/人民邮电出版社/2010-3/79.00元
+软件工程,8.1,(45人评价),萨默维尔/程成/机械工业出版社/2007-1-1/55.00元
+Android技术内幕,6.9,(57人评价),杨丰盛/机械工业出版社/2011-6/69.00元
+系统程序员成长计划,7.9,(222人评价),李先静/人民邮电出版社/2010-04/45.00
+Arduino从基础到实践,8.2,(14人评价),米歇尔·麦克罗伯茨/杨继志、郭敬/电子工业出版社/2013-3/79.00元
+计算机奥秘,8.0,(14人评价),RonWhite/清华大学出版社/2003-4/76.00元
+大脑设计,7.4,(10人评价),[美]艾什比/乐秀成、朱熹豪等/商务印书馆/1991-11/3.50元
+编写安全的代码,7.8,(30人评价),DavidLeBlanc、程永敬、MichaelHoward、翁海燕、朱涛江/程永敬、翁海燕、朱涛江/机械工业出版社/2005-1-1/55.0
+高质量程序设计指南,8.2,(436人评价),林锐、韩永泉/电子工业/2007-5/39.80元
+MPI与OpenMP并行程序设计,8.0,(28人评价),MichaelJ.Quinn/陈文光、武永卫/清华大学出版社/2004-1/51.00元
+捉虫日记,8.8,(50人评价),TobiasKlein/张伸/人民邮电出版社/2012-9/39.00元
+Machine Learning,7.8,(少于10人评价),PeterFlach/CambridgeUniversityPress/2012-11-12/USD74.99
+有趣的二进制,7.8,(15人评价),［日］爱甲健二/周自恒/人民邮电出版社/2015-10/39.00元
+Distributed Algorithms,6.7,(11人评价),NancyA.Lynch/MorganKaufmann/1996-3-15/USD155.00
+自然计算：DNA、量子比特和智能机器的未来,7.8,(39人评价),[美]丹尼斯·萨莎　凯茜·拉瑟/金从军、仇祝平/人民邮电出版社/2014-8-1/CNY45.00
+特征提取与图像处理,7.4,(14人评价),(英)尼克松//阿瓜多|译者:李实英//杨高波/电子工业/2010-10/35.00元
+Social Network Analysis for Startups,7.3,(13人评价),MaksimTsvetovat、AlexanderKouznetsov/O&#39;ReillyMedia/2011-10-7/USD24.99
+七周七数据库,7.8,(124人评价),[美]EricRedmond/王海鹏、田思源、王晨/人民邮电出版社/2013-5-30/CNY59.00
+Optimizing Compilers for Modern Architectures,6.6,(13人评价),RandyAllen、KenKennedy/MorganKaufmann/2001-10-10/USD138.00
+虚拟机的设计与实现,7.3,(41人评价),布朗登/杨涛/机械工业出版社/2003-1/76.00元
+全程软件测试,6.7,(27人评价),朱少民/电子工业出版社/2007-9/49.00元
+图像局部不变性特征与描述,8.0,(26人评价),王永明、王贵锦/国防工业出版社/2010-4/35.00元
+走进搜索引擎,7.3,(65人评价),电子工业出版社/2011-5/49.00元
+近似算法的设计与分析,8.4,(少于10人评价),堵丁柱、葛可一、胡晓东/2011-8/79.00元
+Becoming a Technical Leader,7.5,(22人评价),GeraldM.Weinberg/DorsetHousePublishingCompany,Incorporated/1986-9/USD29.95
+Shell脚本学习指南,8.9,(414人评价),ArnoldRobbins、NelsonH.F.Beebe/OReillyTaiwan公司/机械工业出版社/2009-4/79.00元
+Windows 程序设计：第5版,7.3,(596人评价),CharlesPetzold/北京博彦科技发展有限公司/北京大学出版社/2003-11-1/160.00元
+隐喻的逻辑,7.3,(10人评价),[美]E.C.斯坦哈特/黄华新、徐慈华等/浙江大学出版社/2009-2/40.00元
+工业互联网,7.6,(24人评价),许正/机械工业出版社/2015-5/39.00
+范畴论,8.4,(19人评价),贺伟/科学出版社/2006-7/22.00元
+矩阵论,8.3,(24人评价),方保镕/清华大学出版社/2004-1/39.00元
+A New Kind of Science,7.4,(80人评价),StephenWolfram/WolframMediaInc/2002-5/GBP40.00
+Computability and Complexity,6.9,(少于10人评价),NeilD.Jones/TheMITPress/1997-01-15/USD75.00
+程序员面试攻略(原书第3版),7.5,(14人评价),(美)JohnMongan、EricGiguere、NoahKindler/李秉义/机械工业出版社/2014-1/59.00
+The Art of the Metaobject Protocol,7.9,(少于10人评价),GregorKiczales、JimdesRivieres、DanielG.Bobrow/TheMITPress/1991-7-30/USD58.00
+Apache Spark源码剖析,8.0,(23人评价),许鹏/电子工业出版社/2015-3/68.00元
+密码学导引,7.6,(18人评价),PaulGarrett/吴世忠/机械工业出版社/2003-12-1/39.00元
+Compiler Construction,7.7,(少于10人评价),NiklausWirth/Addison-WesleyPub(Sd)/1996-6/USD52.50
+植物的算法美,8.8,(12人评价),（加）普鲁辛凯维奇，（加）林德梅叶/2008-5/48.00元
+软件调试,7.6,(192人评价),张银奎/电子工业出版社/2008-6/128.00元
+TCP/IP指南（卷2）,8.5,(15人评价),科齐勒克/陈鸣/人民邮电出版社/2008-6/89.00元
+算法设计与分析导论,8.4,(35人评价),R.C.T.Lee(李家同)、S.S.Tseng、R.C.Chang、Y.T.Tsai/王卫东/机械工业/2008-1/49.00元
+Vector Basic Training,7.7,(17人评价),VonR.Glitschka/NewRidersPress/2011-1-1/USD44.99
+设计原本,7.1,(353人评价),FrederickP.Brooks,Jr./InfoQ中文站、王海鹏、高博/机械工业出版社/2011-1-1/55.00元
+人机交互,8.0,(32人评价),迪克斯/电子工业出版社/2006-3/58.00元
+量子计算和量子信息,8.8,(15人评价),MichaelA.NielsenIsaacL.Chuang郑大钟赵千川郑大钟/清华大学出版社/2005-1/33.00元
+计算机系统结构精髓,8.5,(20人评价),科默/清华大学出版社/2006-3/29.00元
+A Course in Game Theory,6.6,(81人评价),MartinJ.Osborne、ArielRubinstein/TheMITPress/1994-7-12/USD46.00
+机器学习实践指南,8.1,(37人评价),麦好/机械工业出版社/2014-4-1/69.00
+网络科学,7.4,(少于10人评价),（美）TedG.Lewis/陈向阳、巨修练/机械工业出版社/2011-10/55.00元
+The Computational Beauty of Nature,8.5,(14人评价),GaryWilliamFlake/TheMITPress/2000-01-31/USD45.00
+Kali Linux渗透测试的艺术,7.8,(少于10人评价),LeeAllen、TediHeriyanto、ShakeelAli/人民邮电出版社/2015-2/69.00元
+CoffeeScript程序设计,8.1,(32人评价),贝茨(MarkBates)/人民邮电出版社/2013-1-1/45.00元
+特别版MATHEMATICA全书,8.8,(29人评价),[美]斯蒂芬·沃尔夫雷/赫孝良、周义仓/西安交通大学出版社/2002-1/60.00元
+无线通信,8.7,(64人评价),哥德史密斯/杨鸿文/人民邮电出版社/2007-6/69.00元
+Structure and Interpretation of Classical Mechanics,7.9,(12人评价),GeraldJaySussman、JackWisdom/TheMITPress/2001-3-19/USD84.00
+Python数据分析与挖掘实战,7.4,(25人评价),张良均、王路、谭立云、苏剑林/机械工业出版社/2016-1/69.00元
+C陷阱与缺陷,8.9,(1135人评价),凯尼格/高巍/人民邮电出版社/2008-2-1/30.00元
+Python计算与编程实践,7.2,(22人评价),（美）MarkGuzdial、（美）BarbaraEricson/王江平/机械工业出版社/2012-7/69.00元
+Android编程实战,7.6,(15人评价),赫尔曼(ErikHellman)/丁志虎、武海峰/人民邮电出版社/2014-6-1/CNY69.00
+C# 5.0 in a Nutshell,9.2,(24人评价),JosephAlbahari、BenAlbahari/O&#39;ReillyMedia/2012-6-26/GBP38.50
+Programming Massively Parallel Processors,9.2,(32人评价),DavidB.Kirk、Wen-meiW.Hwu/MorganKaufmann/2010/$62.95
+密码的奥秘（全彩）,8.0,(29人评价),PaulLunde（保罗·伦德）/刘建伟、王琼/电子工业出版社/2015-3-1/128.00元
+Linux内核源代码情景分析（下册）,8.4,(68人评价),毛德操、胡希明/浙江大学出版社/2001-9/70.00元
+软件调试实战,7.3,(39人评价),ThorstenGrotker、UlrichHoltmann、HolgerKeding、MarkusWloka/赵俐/人民邮电出版社/2010-2/45.00元
+计算机硬件及组成原理,7.4,(16人评价),格吉尔/吴为民、喻文健、邓澍军、伍绍贺/机械工业/2007-5/55.00元
+HTML+CSS网页设计与布局从入门到精通,7.4,(52人评价),温谦/人民邮电出版社/2008-8/49.00元
+优雅人生,7.3,(29人评价),KurtW.Beyer/包艳丽、刘珍、陈菲/机械工业出版社华章公司/2010-12-25/39.00元
+精益数据分析,8.3,(203人评价),[加]阿利斯泰尔·克罗尔、[加]本杰明·尤科维奇/韩知白、王鹤达/人民邮电出版社/2014-12/79.00元
+Hadoop技术内幕,7.7,(40人评价),董西成/机械工业出版社/2013-11-30/69.00元
+心我论,8.6,(83人评价),[美]道格拉斯.R.霍夫施塔特(DouglasR.Hofstadter)、[美]丹尼尔·C.丹尼特(D.C.Dennett)/陈鲁明/上海译文出版社/1999/15.40元
+短码之美,6.7,(71人评价),Ozy(著),やねうらお(監修)/人民邮电出版社/2011-1-8/59.00元
+Head First 设计模式（中文版）,9.2,(2247人评价),弗里曼/O&#39;ReillyTaiwan公司/中国电力出版社/2007-9/98.00元
+Essential C++中文版,8.3,(436人评价),[美]StanleyB.Lippman/侯捷/华中科技大学出版社/2001-8/39.80元
+Statistical Analysis of Network Data,8.1,(少于10人评价),EricD.Kolaczyk/Springer/2009-03-19/USD89.95
+Large-Scale Inference,8.0,(少于10人评价),Efron,Bradley/CambridgeUniversityPress/2010-9/646.00元
+用TCP/IP进行网际互联,7.9,(30人评价),DouglasE.Comer、DavidL.Stecens/赵刚、林瑶、蒋慧/电子工业出版社/2001-4-1/48.00元
+高级能计算并行编程技术--MPI并行程序设计,7.6,(24人评价),都志辉/清华大学出版社/2001-1/36.00元
+计算理论基础,7.5,(16人评价),MartinDavis、RonSigal、ELAINEJ.WEYUKER/人民邮电出版社/2009/79.00元
+Distributed Algorithms,9.0,(少于10人评价),WanFokkink/TheMITPress/2013-12-6/USD40.00
+Joel谈优秀软件开发方法,9.5,(163人评价),JoelSpolsky/王慧/清华大学/2007-7/39.00元
+信息检索,7.7,(13人评价),（美）StefanBüttcher、（加）CharlesL.A.Clarke、（加）GordonV.Cormack/陈健、黄晋/机械工业出版社/2012-1/65.00元
+Land of Lisp,7.9,(97人评价),ConradBarskiM.D./NoStarchPress/October2009(est.)/386.00元
+Convex Optimization,7.5,(304人评价),StephenBoyd、LievenVandenberghe/CambridgeUniversityPress/2004-3-8/USD90.00
+Introduction to Machine Learning with Python,8.7,(少于10人评价),SarahGuido、AndreasC.Mueller/O&#39;ReillyMedia/2016-5-25/USD49.99
+机器学习算法原理与编程实践,7.7,(少于10人评价),郑捷/电子工业出版社/2015-11/88.00
+内存受限系统之软件开发,7.4,(39人评价),JamesNoble&amp;CharlesWeir/侯捷、王飞、罗伟/华中科技大学出版社/2003-1/58.00元
+Model Checking,8.1,(16人评价),EdmundM.Clarke、OrnaGrumberg、DoronA.Peled/TheMITPress/07January,2000/$60.00
+悟透JavaScript,7.6,(224人评价),李战/电子工业出版社/2008-12/49.00元
+Arbitrage Theory in Continuous Time,9.0,(44人评价),TomasBjörk/OxfordUniversityPress/2009-10-4/USD85.00
+随机过程导论,7.2,(21人评价),(美)GregoryF.Lawler/张景肖/机械工业出版社/2010年9月/36.00元
+大数据算法,7.4,(少于10人评价),王宏志
+Data Structures and Algorithms Using Python,9.5,(37人评价),RanceD.Necaise/Wiley/2010-12-21/730.00元
+Fluent Python,9.2,(74人评价),LucianoRamalho/O&#39;ReillyMedia/2015-8-20/USD39.99
+量子化学,9.1,(25人评价),徐光宪、黎乐民、王德民/科学出版社/2007/55.00元
+Probabilistic Robotics (Intelligent Robotics and Autonomous Agents),7.6,(23人评价),SebastianThrun、WolframBurgard、DieterFox/TheMITPress/September1,2005/$60.00
+软件预构艺术（中文版）,8.1,(40人评价),KenPugh/O&#39;ReillyTaiwan公司/东南大学/2010-6/26.00元
+Principles of Program Analysis,7.7,(少于10人评价),FlemmingNielson、HanneR.Nielson、ChrisHankin/Springer/2004-12-7/USD79.99
+现代体系结构上的UNIX系统,8.9,(50人评价),希梅尔/人民邮电出版社/2003-4/39.00元
+Programming in Haskell,8.4,(64人评价),GrahamHutton/CambridgeUniversityPress/2007/$45.00
+Approximation Algorithms,8.4,(27人评价),VijayV.Vazirani/Springer/2001-07-02/USD54.95
+The Architecture of Open Source Applications, Volume II,8.1,(35人评价),AmyBrown、GregWilson/lulu.com/2008-5-7/$69.95
+R Graphics Cookbook,9.0,(43人评价),WinstonChang/O&#39;ReillyMedia/2013-1-3/USD39.99
+并行程序设计,7.9,(19人评价),BarryWilkinson、MichaelAllen、陆鑫达/陆鑫达/机械工业出版社/2005-5-1/48.00元
+对称的历史,8.0,(61人评价),[美]伊恩·斯图尔特/王天龙/上海人民出版社/2011-8/45.00元
+Analyzing Social Media Networks with NodeXL,7.8,(10人评价),DerekHansen、BenShneiderman、MarcA.Smith/MorganKaufmann/2010-09-29/USD44.95
+并发的艺术,7.1,(52人评价),ClayBreshears/聂雪军/机械工业出版社/2010年9月/49.00元
+应用组合数学,8.4,(23人评价),罗伯茨/冯速/机械工业出版社/2007-5/69.00元
+Java语言程序设计,8.4,(32人评价),（美）Y.DanielLiang/李娜/机械工业出版社/2011-6/79.00元
+云计算,7.2,(46人评价),姚宏宇田溯宁/电子工业出版社/2013-1/32.00元
+Getting Started with LLVM Core Libraries,7.2,(13人评价),BrunoCardosoLopes、RafaelAuler/PacktPublishing/2014-8-26/USD44.99
+Android开发艺术探索,8.5,(120人评价),任玉刚/电子工业出版社/2015-9-1/79.00元
+神经网络设计,8.8,(131人评价),戴葵/戴葵、李伯民审校/机械工业出版社/2007-09-01/49.0
+汇编语言与计算机体系结构,7.9,(13人评价),赖斯/清华大学出版社/2006-1/79.00元
+R in a Nutshell,8.5,(50人评价),JosephAdler/O&#39;ReillyMedia/2010-1-11/GBP38.50
+UML精粹,6.7,(108人评价),(美)MartinFowle/徐家福/清华大学/2005-1/29.00元
+云计算与分布式系统,6.6,(31人评价),（美）KaiHwang、（美）GeoffreyCFox、（美）JackJDongarra/武永卫、秦中元、李振宇、钮艳/机械工业出版社/2013-1/85.00元
+程序员面试攻略,7.7,(92人评价),蒙干/王海鹏/机械工业出版社/2007-12/29.00元
+The Architecture of Open Source Applications,8.5,(84人评价),AmyBrown、GregWilson/Lulu.com/2011-5-23/USD35
+Linux内核设计的艺术,6.8,(115人评价),新设计团队/机械工业出版社华章公司/2011-6-20/79.00元
+Java并发编程实战,9.0,(551人评价),BrianGoetz、TimPeierls、JoshuaBloch、JosephBowbeer、DavidHolmes、DougLea/童云兰/机械工业出版社华章公司/2012-2/69.00元
+程序员的数学思维修炼（趣味解读）,5.4,(62人评价),周颖/清华大学出版社/2014-4-1/45.00元
+深度探索关系数据库,8.0,(35人评价),C.J.Date/熊建国/电子工业出版社/2007/35.00元
+Python 3程序开发指南,7.0,(83人评价),（美）萨默菲尔德/王弘博、孙传庆/人民邮电出版社/2011-2-1/69.00元
+R语言初学者指南,7.7,(123人评价),阿兰.F.祖尔/周丙常、王亮/西安交通大学出版社/2011-8/36.00元
+小块松散组合,7.3,(13人评价),封进/中信出版社/2003-01-06/15.0
+The Nature of Computation,9.0,(少于10人评价),CristopherMoore、StephanMertens/OxfordUniversityPress,USA/2011-10-9/USD90.00
+ガベージコレクションのアルゴリズムと実装,7.9,(少于10人评价),中村成洋、相川光/秀和システム/2010-03-18/JPY33.60
+Open GL编程指南,7.5,(39人评价),[美]DaveShreiner[等]/徐波[等]/机械工业出版社/2006-6/69.00元
+形式语言与自动机导论,7.9,(29人评价),林兹/机械工业出版社/2005-9/36.00元
+An Introduction to Category Theory,7.8,(少于10人评价),HaroldSimmons/2011-11-21/$35.99
+跟阿铭学Linux,7.3,(19人评价),李世明/人民邮电出版社/2014-10/59.00元
+Optimization for Machine Learning,8.9,(11人评价),SuvritSra、SebastianNowozin、StephenJ.Wright/TheMITPress/2011-9-30/USD50.00
+软件加密与解密,7.9,(11人评价),[美]ChristianCollberg、[美]JasvirNagra/崔孝晨/人民邮电出版社/2012-5-3/99.00元
+图像处理、分析与机器视觉,8.4,(40人评价),[美]桑卡(MilanSonka)、[美]赫拉瓦卡(VaclavHlavac)、[美]博伊尔(RogerBoyle)/艾海舟、苏延超/清华大学/2011-1/69.50元
+C数值算法,8.0,(20人评价),(美国)普雷斯等著、傅祖芸等译/傅祖芸/电子工业出版社/2004-1/68.00
+数据结构、算法与应用,9.4,(54人评价),（美）SartajSahni/汪诗林、孙晓东、等/机械工业出版社/2000-01/49.00
+松本行弘的程序世界,7.4,(906人评价),松本行弘/柳德燕、李黎明、夏倩、张文旭/人民邮电出版社/2011-8/75.00元
+高级Perl编程,8.7,(74人评价),[美]SriramSrinivasan/Perlish/中国电力出版社/2001-1/69.00元
+思科网络技术学院教程CCNA Exploration,7.6,(44人评价),(美)戴伊//麦克唐纳//鲁菲|译者:思科系统公司/思科系统公司/人民邮电/2009-1/40.00元
+应用组合数学,7.7,(15人评价),AlanTucker/冯速/人民邮电出版社/2009-3/65.00元
+Algorithms + Data Structures = Programs,7.5,(少于10人评价),NiklausWirth/PrenticeHall/1975-11-11/GBP84.95
+Intel微处理器,8.8,(22人评价),（美）BarryBBrey/金惠华、艾明晶、尚利宏/机械工业出版社/2010年6月/89.00元
+Spring Recipes,8.0,(23人评价),GaryMak/apress/2008/USD49.99
+复杂网络,7.6,(36人评价),郭雷，许晓鸣/上海科技教育出版社/2006-1/78.00元
+Principles of Model Checking,7.2,(11人评价),ChristelBaier、Joost-PieterKatoen/TheMITPress/2008-05-31/USD60.00
+面向计算机科学的数理逻辑,6.4,(49人评价),陆钟万/科学出版社/2002-1/24.00元
+计算机操作系统,7.6,(230人评价),汤子瀛、哲凤屏、汤小丹/西安电子科技大学出版社/2007-5/27.00
+商业数据挖掘导论,7.9,(15人评价),（美）戴维.奥尔森、.（中）石勇/吕巍/机械工业/2007-8/38.00元
+Synchronization Algorithms and Concurrent Programming,7.7,(少于10人评价),GadiTaubenfeld/PrenticeHall/2006-07-20/USD110.00
+软件框架设计的艺术,9.5,(120人评价),[捷]JaroslavTulach/王磊、朱兴/人民邮电出版社/2011-3/75.00元
+Architecture of a Database System,6.4,(12人评价),JosephMHellerstein、MichaelStonebraker、JamesHamilton/NowPublishersInc/2007-9-30/USD85.00
+Advanced R,7.6,(37人评价),HadleyWickham/ChapmanandHall/CRC/2014-9-25/USD59.95
+CDN技术详解,9.0,(62人评价),雷葆华、孙颖、王峰、陈晓益/电子工业出版社/2012-6/69.00元
+Algorithmic Game Theory,8.1,(46人评价),NoamNisan、TimRoughgarden/CambridgeUniversityPress/2007-9-24/USD64.99
+Linux C编程一站式学习,7.0,(529人评价),宋劲杉/电子工业出版社/2009-12/60.00元
+数据库设计教程,7.7,(22人评价),ThomasM.Connolly、CarolynE.Begg、何玉洁、黄婷儿/何玉洁、黄婷儿/机械工业出版社/2005-1-1/35.00元
+颠覆完美软件,7.6,(11人评价),【美】GeraldM.Weinberg/宋锐/电子工业出版社/2015-7/49.00元
+实用C语言编程,7.5,(15人评价),SteveOualline/郭大海/中国电力出版社/2000-05/49.00元
+Learn Windows PowerShell 3 in a Month of Lunches,7.6,(少于10人评价),Jones,Don;Hicks,Jeffrey;/2012-11/$50.84
+Bandit Algorithms for Website Optimization,8.6,(14人评价),White,JohnMyles/2012-12/$22.59
+数学游戏与欣赏,8.1,(52人评价),[英国]劳斯·鲍尔、[加拿大]考克斯特/杨应辰等/上海教育出版社/2001-4/25.70元
+高效程序员的45个习惯,7.9,(971人评价),VenkatSubramaniam、AndyHunt/钱安川、郑柯/人民邮电出版社/2010-01/35.00元
+Programming Scala,9.0,(43人评价),DeanWampler、AlexPayne/O&#39;ReillyMedia/2009-09-15/USD44.99
+OS X与iOS内核编程,7.1,(少于10人评价),[澳]OleHenryHalvorsen、[澳]DouglasClarke/贾　伟/人民邮电出版社/2013-6/89.00
+离散数学及其应用(原书第4版),8.1,(34人评价),KennethH.Rosen/机械工业出版社/2002-1-1/75.00
+Swift与Cocoa框架开发,8.0,(13人评价),[澳]JonathonManning、[澳]ParisButtfield-Addison、[澳]TimNugent/贾洪峰/人民邮电出版社/2015-6/89.00元
+SQL基础教程,7.0,(36人评价),（美）费希利（Fehily,C.）/冯宇晖、贾文峰/人民邮电出版社/2009-12/49.00元
+Why Programs Fail,7.1,(49人评价),泽勒/王咏武、王咏刚/电子工业出版社/2007-3/59.00元
+深入理解Linux虚拟内存管理,8.3,(26人评价),[爱尔兰]MelGorman/白洛、李俊奎、刘森林/北京航空航天大学出版社/2006-1/76.00元
+架构之美,9.0,(314人评价),TillAdam/王海鹏、蔡黄辉、徐锋/机械工业出版社/2009/75
+Dive Into Python,7.9,(1091人评价),MarkPilgrim/Apress/19July,2004/$39.99
+用TCP/IP进行网际互连,7.6,(104人评价),科默(DouglasE.Comer)/林瑶、张娟、王海/电子工业出版社/2007-2-1/45.00元
+Programming Python,8.4,(22人评价),MarkLutz/O&#39;ReillyMedia/2011-1-10/$64.99
+第一行代码,8.4,(376人评价),郭霖/人民邮电出版社/2014-8/79.00元
+程序员面试笔试宝典,8.0,(38人评价),何昊、叶向阳、窦浩/2012-10/59.80元
+数值方法和MATLAB实现与应用,8.8,(25人评价),拉克唐瓦尔德/机械工业出版社/2004-9/59.00元
+程序员度量,7.5,(33人评价),JonathanAlexander/张燎原、周峰、张刚、宋励奋/机械工业出版社/2013-3/59.00元
+C++编程规范,8.2,(337人评价),（美）HerbSutter,AndreiAlexandrescu/刘基诚/人民邮电出版社/2006-1/35.00元
+数据结构（C语言版）,6.4,(61人评价),严蔚敏、吴伟民/清华大学出版社/2012-5/29.00元
+计算机科学前沿技术,7.9,(24人评价),王伟编/清华大学出版社/2012-7/59.00元
+面向算法设计的数据结构（C++语言版）,8.1,(少于10人评价),谢勰/清华大学出版社/2015-12-1/39
+Structured Parallel Programming,8.4,(少于10人评价),McCool、Reinders、Robison/MorganKaufmann/2012-6-27/USD59.95
+LATEX实用教程（英文版・第4版）,7.9,(42人评价),赫尔穆特·科普卡/机械工业出版社/2005年04月/69.0
+A Computational Introduction to Number Theory and Algebra, 2nd Edition,6.8,(少于10人评价),VictorShoup/CambridgeUniversityPress/2009/$63.00
+数字图像处理（第二版）,8.0,(271人评价),RafaelC.Gonzalez、RichardE.Woods/阮秋琦、阮宇智/电子工业出版社/2003-3-1/59.00元
+步步惊“芯”,7.6,(少于10人评价),雷思磊/电子工业出版社/2013-7/75.00元
+Scaling up Machine Learning,7.9,(少于10人评价),Bekkerman,Ron;Bilenko,Mikhail;Langford,John/CambridgeUniversityPress/2011-12-30/USD90.00
+大型网站技术架构,8.8,(846人评价),李智慧/电子工业出版社/2013-9-1/59.00元
+事务信息系统,7.5,(15人评价),威肯、沃什/陈立军、邱海艳、赵加奎/机械工业出版社/2006-1-1/78.0
+Cassandra权威指南,7.1,(44人评价),EbenHewitt/王旭/人民邮电出版社/2011-8/59.00元
+The New Turing Omnibus,8.2,(少于10人评价),A.K.Dewdney/HoltPaperbacks/1993-7-15/USD32.99
+JSP基础教程,8.1,(少于10人评价),耿祥义/清华大学出版社/2004-1/22.00元
+意料之外的绞刑和其他数学娱乐,7.8,(68人评价),（美）加德纳/胡乐士/上海教育出版社/2003-03/16.50元
+分布式计算,7.5,(少于10人评价),AjayD.Kshemkalyani、MukeshSinghal/余宏亮、张冬艳/高等教育出版社/2012-6/79.00元
+信息论与编码,9.0,(13人评价),姜丹/2009-12/70.00元
+The Little Book of SEMAPHORES,9.0,(10人评价),AllenB.Downey/CreateSpaceIndependentPublishingPlatform/2009-3-20/USD34.95
+SQL解惑,8.8,(33人评价),JoeCelko/米全喜/人民邮电/2008-4/49.00元
+统计学习理论的本质,8.2,(96人评价),[美]VladimirN.Vapnik/张学工/清华大学出版社/2000/27.00元
+3D游戏引擎设计,6.5,(29人评价),DavidH.Eberly/人民邮电出版社/2009-2/138.00元
+Windows核心编程,8.4,(454人评价),JeffreyRichter/机械工业出版社/2000-5-1/86.00元
+白帽子讲Web安全,8.6,(710人评价),吴翰清/电子工业出版社/2012-3/69.00元
+软件定义网络,7.2,(22人评价),[美]ThomasD.NadeauKenGray/毕　军、单　业、张绍宇、姚　广/人民邮电出版社/2014-4-5/79.00元
+离散数学教程,7.9,(80人评价),耿素云、屈婉玲、王捍贫/北京大学出版社/2002-6-1/49.00元
+浮现式设计,6.9,(26人评价),ScottL.Bain/赵俐^华洁/人民邮电出版社/2011-8/59.00元
+OpenCL in Action,7.5,(19人评价),MatthewScarpino/ManningPublications/2011-11-17/USD59.99
+计算机代数系统的数学原理,7.6,(11人评价),李超、阮威、张龙、张翔/清华大学出版社/2010-10/39.00元
+Modern Compiler Implementation in ML,8.2,(少于10人评价),AndrewW.Appel/CambridgeUniversityPress/2004-7-8/USD75.00
+FreeBSD Handbook,7.3,(36人评价),MurrayStokely、NikClayton/张纪青/人民邮电出版社/2002-11/50.0
+Analytics at Work,8.1,(少于10人评价),ThomasH.Davenport、JeanneG.Harris、RobertMorison/HarvardBusinessPress/2010-2/USD29.95
+Java加密与解密的艺术,7.3,(89人评价),梁栋/机械工业出版社/2010-4/69.00元
+The Design and Implementation of the FreeBSD Operating System,6.9,(17人评价),MarshallKirkMcKusick、GeorgeV.Neville-Neil/Addison-WesleyProfessional/2004-8-12/USD79.99
+Getting Started with Storm,7.7,(50人评价),JonathanLeibiusky、GabrielEisbruch、DarioSimonassi/O&#39;ReillyMedia/2012-9-17/USD19.99
+人工智能及其应用,7.8,(14人评价),蔡自兴//徐光祐/清华大学/2010-5/39.00元
+Clojure程序设计,7.8,(53人评价),哈罗威(StuartHalloway)、拜卓(AaronBedra)/温瑞云/人民邮电出版社/2013-4-1/49.00元
+Algorithms for Visual Design Using the Processing Language,6.9,(27人评价),KostasTerzidis/Wiley/2009/$60.00
+语言与机器,8.8,(16人评价),（美）萨德坎普/孙家骕/机械工业出版社/2008年/49.00元
+游戏外挂攻防艺术,8.7,(14人评价),徐胜/电子工业出版社/2013-2/59.00元
+Linux设备驱动程序,7.6,(414人评价),科波特/魏永明、耿岳、钟书毅/中国电力出版社/2006-1-1/69.00元
+信息简史,7.6,(1428人评价),[美]詹姆斯·格雷克/高博/人民邮电出版社/2013-10/69.00元
+专业嵌入式软件开发,8.9,(18人评价),李云/电子工业出版社/2012-1/108.00元
+Writing Compilers and Interpreters,9.1,(少于10人评价),RonaldMak/Wiley/2009-9-28/USD80.00
+数学模型选谈,8.7,(少于10人评价),华罗庚//王元/大连理工大学出版社/2011-5/25.00元
+Matrix Analysis and Applied Linear Algebra Book and Solutions Manual,8.7,(29人评价),CarlD.Meyer/SIAM:SocietyforIndustrialandAppliedMathematics/2001-02-15/USD97.00
+游戏编程精粹4,8.6,(24人评价),柯姆斯/人民邮电出版社/2005-9/85.00元
+软件随想录,8.0,(2116人评价),JoelSpolsky/阮一峰/人民邮电出版社/2009/49.00元
+数据结构与STL,8.0,(33人评价),[美]WilliamJ.Collins/机械工业出版社/2004-1/49.00元
+Algorithmic Architecture,8.0,(29人评价),KostasTerzidis/Routledge/2006-6-21/USD54.95
+Parallel Computer Architecture,7.7,(14人评价),Culler,David、Singh,J.P.、Gupta,Anoop/MorganKaufmannPublishersIn/1998-9-29/USD162.72
+精通Linux设备驱动程序开发,7.5,(33人评价),SreekrishnanVenkateswaran/宋宝华、吴国成、史海滨、何昭然/人民邮电出版社/2010-5/89.00元
+算法交易与套利交易,8.8,(少于10人评价),赵胜民/厦门大学出版社/2010-9/35.00元
+算法少女,8.4,(29人评价),遠藤寬子/周若珍/小知堂文化事業有限公司/2009-5/NT$230
+网络机器人Java编程指南,7.6,(17人评价),美HeatonJ./电子工业出版社/2002-7/44.00元
+计算机病毒防范艺术,8.3,(23人评价),斯泽/段新海/机械工业出版社/2007-1/49.00元
+人月神话,6.6,(2698人评价),[美]弗雷德里克·布鲁克斯/汪颖/清华大学出版社/2002-11/29.80元
+JavaScript编程实战,7.6,(12人评价),[美]JonRaasch/吴海星/人民邮电出版社/2014-3/59.00
+ARM Cortex-M3权威指南,8.1,(49人评价),姚文详/北京航空航天大学出版社/2009-7-1/49.00元
+MATLAB遗传算法工具箱及应用,6.1,(37人评价),雷英杰/西安电子科技大学出版社/2005-4/26.00元
+JavaScript王者归来,7.5,(140人评价),月影/清华大学出版社/2008-7/86.00元
+重构,9.0,(1930人评价),MartinFowler/中国电力出版社/2003-8-1/68.00元
+并行计算导论,7.5,(19人评价),AnanthGrama、GeorgeKarypis、张武、毛国勇、AnshulGupta、VipinKumar、程海英/张武、毛国勇、程海英/机械工业出版社/2005-1-1/49.00元
+计算群体智能基础,7.7,(少于10人评价),恩格尔伯里特/谭营/2009-10/69.00元
+Algorithms on Strings,8.0,(少于10人评价),MaximeCrochemore、ChristopheHancart、ThierryLecroq/CambridgeUniversityPress/2007/$80.00
+交互式计算机图形学,8.0,(17人评价),EdwardAngel/电子工业大学出版社/2009-7/69.00元
+Web协议与实践,8.7,(16人评价),克里希纳穆尔蒂(KrishnamurthyBalachander)/范群波/科学出版社/2003-7/46.0
+iOS Hacker&#39;s Handbook,3.4,(17人评价),CharlieMiller、DionBlazakis、DinoDaiZovi、StefanEsser、VincenzoIozzo、Ralf-PhilippWeinmann/Wiley/2012-5-8/USD44.99
+设计模式,8.8,(66人评价),王翔/电子工业出版社/2009-1-1/98.00元
+编程之法,8.9,(87人评价),July/人民邮电出版社/2015-9-1/49.00元
+离散时间信号处理,8.8,(108人评价),A.V.奥本海姆/刘树棠/西安交通大学出版社/2001-9/78.00元
+Introduction to Programming in Java,7.4,(20人评价),RobertSedgewick、KevinWayne/Addison-Wesley/2007-7-27/USD89.00
+Bayesian Computation With R,7.8,(21人评价),Albert,Jim/SpringerVerlag/2008.07/49.95
+妙趣横生的算法,9.3,(40人评价),杨峰/清华大学出版社/2010-4/49.00元
+CJKV Information Processing,7.9,(少于10人评价),KenLunde/O&#39;Reilly/2009/59.99
+The Compiler Design Handbook,8.1,(少于10人评价),Srikant,Y.N.(EDT)/Shankar,Priti(EDT)/CRCPress/2007-12-7/USD184.95
+Polygon Mesh Processing,7.8,(11人评价),MarioBotsch、LeifKobbelt、MarkPauly、PierreAlliez、BrunoLevy/AKPeters/2010-9-22/USD59.95
+Design Concepts in Programming Languages,8.0,(少于10人评价),FranklynA.Turbak、DavidK.Gifford/TheMITPress/2008-08-31/USD75.00
+Common LISP. Second Edition,8.0,(18人评价),GuySteele/DigitalPress/1990-06-15/USD101.00
+遗传算法原理及应用,7.4,(11人评价),周明、孙树栋/国防工业出版社/1999-6/18.0
+Make It So,7.4,(少于10人评价),NathanShedroff、ChristopherNoessel/RosenfeldMedia/2012-9-13/USD39.00
+Hacking and Securing iOS Applications,9.1,(17人评价),JonathanZdziarski/O&#39;ReillyMedia/2012-1-25/USD39.99
+Visual C# 2010从入门到精通,7.2,(47人评价),夏普(JohnSharp)/周靖/清华大学出版社/2010年8月1日/78.00元
+深入理解软件构造系统,8.3,(少于10人评价),PeterSmith/仲田/机械工业出版社华章公司/2012-6-15/89.00元
+GNU/Linux编程指南(第二版),7.2,(52人评价),KurtWall,etal./张辉/清华大学出版社/2002-6-1/68.00元
+计算机自然语言处理,8.1,(12人评价),王晓龙/清华大学出版社/2005年4月1日/23.0
+x86汇编语言,7.8,(46人评价),李忠、王晓波、余洁/电子工业出版社/2013-1/56.00元
+Engineering Long-Lasting Software,7.3,(少于10人评价),ArmandoFox、DavidPatterson/StrawberryCanyonLLC/2012-1-12/USD19.99
