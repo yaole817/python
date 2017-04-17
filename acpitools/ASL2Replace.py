@@ -86,13 +86,28 @@ class StoreReplace(complateExpression):
 			self.newLines.append(line)
 		return self.newLines
 
+class LEqualReplace(complateExpression):
+	def __init__(self):
+		self.newLines 	= []
+		
+	def storeReplace(self,leftString,rightString):
+		return '(' + leftString + ' == ' + rightString + ')'
 
+	def replaceFileStore(self,lines):
+		for line in lines:
+			if 'LEqual' in line:
+				store = self.extractComplateExpression(line,'LEqual')
+				leftString,rightString = self.decodeTwoParameterFunction(store,'LEqual')
+				newString = self.storeReplace(leftString,rightString)
+				line = line.replace(store,newString)
+			self.newLines.append(line)
+		return self.newLines
 
 def getAllfile():
 	scan	= ScanFile('..')
 	files	= scan.scan_files()
 	return files
-	
+
 def readFile(filename):
 	with open(filename,'r')as f:
 		lines	= f.readlines()
@@ -105,7 +120,7 @@ def writeFile(filename,myList):
 
 if __name__ == "__main__":
 	fileList =  [x for x in os.listdir('.') if os.path.splitext(x)[1]=='.asl']
-	testString = 'fhadsfkhfdsafjkasl()Store (Or (_DGS, Local0), _DGS)tdfgdklh,()'
+	
 	#lines = replaceFileStore('Gpe.asl')
 	#writeFile('newGpe.asl',lines)
 	filepathList = getAllfile()
@@ -113,15 +128,7 @@ if __name__ == "__main__":
 		if os.path.splitext(item)[1]=='.asl':
 			print item
 			lines = readFile(item)
-			store_replace = StoreReplace()
+			store_replace = LEqualReplace()
 			newLines = store_replace.replaceFileStore(lines)
 			#print newLines
 			writeFile(item,newLines)
-
-'''
-	for item in filepathList:
-		if os.path.splitext(item)[1]=='.asl':
-			print item
-			lines = replaceFileStore(item)
-			writeFile(item,lines)
-'''
