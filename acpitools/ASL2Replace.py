@@ -87,8 +87,8 @@ class TwoParameterFunction(complateExpression):
 		for line in lines:
 			if self.keyword in line:
 				function = self.extractComplateExpression(line,self.keyword)
-				leftString,rightString = self.decodeTwoParameterFunction(function,self.keyword)
-				newString = self.functionReplace(leftString,rightString)
+				parameterList= self.decodeFunctionParameter(function,self.keyword)
+				newString = self.functionReplace(parameterList[0],parameterList[1])
 				line = line.replace(function,newString)
 			self.newLines.append(line)
 		return self.newLines
@@ -99,14 +99,6 @@ class ThreeParameterFunction(complateExpression):
 		self.newLines 	= []
 		self.expression = expression  # 
 		self.keyword 	= keyword
-	def decodeTwoParameterFunction(self,string):
-		keyString = self.extractComplateExpression(string,keyword).replace(keyword,'')
-		for i in range(len(keyString)):
-			if ',' == keyString[i]:
-				leftString 	= keyString[:i].strip()
-				rightString = keyString[i+1:].strip()
-				if self.judgeStringComplate(leftString +')') and self.judgeStringComplate('('+rightString):
-					return leftString[1:],rightString[:-1]
 
 	def functionReplace(self,leftString,rightString,resultString):
 		# replace expression with X by leftString and Y by rightString 
@@ -139,10 +131,10 @@ def writeFile(filename,myList):
 
 if __name__ == "__main__":
 	fileList =  [x for x in os.listdir('.') if os.path.splitext(x)[1]=='.asl']
-	testText = 'LAnd((1,2),BCD,(F,G))'
+	testText = ['LAnd((1,2),BCD)']
 
-	Exp = complateExpression()
-	parList  = Exp.decodeFunctionParameter(testText,'LAnd')
+	Exp = TwoParameterFunction('leftString != rightString','LAnd')
+	parList  = Exp.replaceFileFunction(testText)
 	print parList
 	exit()
 	#lines = replaceFileStore('Gpe.asl')
