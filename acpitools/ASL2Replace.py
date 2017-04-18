@@ -75,7 +75,7 @@ class TwoParameterFunction(complateExpression):
 		self.keyword 	= keyword
 	def functionReplace(self,leftString,rightString):
 		# replace expression with X by leftString and Y by rightString 
-		return self.expression.replace('X',leftString).replace('Y',rightString)
+		return self.expression.replace('leftString',leftString).replace('rightString',rightString)
 
 	def replaceFileFunction(self,lines):
 		for line in lines:
@@ -112,7 +112,7 @@ if __name__ == "__main__":
 		if os.path.splitext(item)[1]=='.asl':
 			print item
 			lines = readFile(item)
-			store_replace = TwoParameterFunction('X != Y','LNotEqual')
+			store_replace = TwoParameterFunction('leftString != rightString','LNotEqual')
 			newLines = store_replace.replaceFileFunction(lines)
 			#print newLines
 			writeFile(item,newLines)
