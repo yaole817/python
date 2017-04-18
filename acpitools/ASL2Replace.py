@@ -95,21 +95,26 @@ class TwoParameterFunction(complateExpression):
 
 
 class ThreeParameterFunction(complateExpression):
-	def __init__(self,expression,keyword): # expression must be like 'X==Y,X<=Y'
+	def __init__(self,three_par_exp,two_par_exp,keyword): # expression must be like 'X==Y,X<=Y'
 		self.newLines 	= []
-		self.expression = expression  # 
+		self.two_par_exp = two_par_exp  #
+		self.three_par_exp = three_par_exp
 		self.keyword 	= keyword
 
-	def functionReplace(self,leftString,rightString,resultString):
+	def functionReplace(self,expression,leftString,rightString,resultString):
 		# replace expression with X by leftString and Y by rightString 
-		return self.expression.replace('leftString',leftString).replace('rightString',rightString).replace('resultString',resultString)
+		return expression.replace('leftString',leftString).replace('rightString',rightString).replace('resultString',resultString)
 
 	def replaceFileFunction(self,lines):
 		for line in lines:
 			if self.keyword in line:
 				function = self.extractComplateExpression(line,self.keyword)
-				leftString,rightString = self.decodeTwoParameterFunction(function,self.keyword)
-				newString = self.functionReplace(leftString,rightString)
+				parameterList = self.decodeFunctionParameter(function,self.keyword)
+				# judge the lenth of parameter
+				if len(parameterList)==2:
+					newString = self.functionReplace(self.two_par_exp,parameterList[0],parameterList[1],'')
+				elif len(parameterList)==3:
+					newString = self.functionReplace(self.three_par_exp,parameterList[0],parameterList[1],parameterList[2])
 				line = line.replace(function,newString)
 			self.newLines.append(line)
 		return self.newLines
@@ -131,9 +136,9 @@ def writeFile(filename,myList):
 
 if __name__ == "__main__":
 	fileList =  [x for x in os.listdir('.') if os.path.splitext(x)[1]=='.asl']
-	testText = ['LAnd((1,2),BCD)']
+	testText = ['And((1,2),BCD,CDE)']
 
-	Exp = TwoParameterFunction('leftString != rightString','LAnd')
+	Exp = ThreeParameterFunction(' resultString = leftString & rightString','leftString & rightString','And')
 	parList  = Exp.replaceFileFunction(testText)
 	print parList
 	exit()
