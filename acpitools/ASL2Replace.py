@@ -68,38 +68,22 @@ class complateExpression:
 					return leftString[1:],rightString[:-1]
 
 
-
-class StoreReplace(complateExpression):
-	def __init__(self):
+class TwoParameterFunction(complateExpression):
+	def __init__(self,expression,keyword): # expression must be like 'X==Y,X<=Y'
 		self.newLines 	= []
-		
-	def storeReplace(self,leftString,rightString):
-		return rightString + ' = ' + leftString
+		self.expression = expression  # 
+		self.keyword 	= keyword
+	def functionReplace(self,leftString,rightString):
+		# replace expression with X by leftString and Y by rightString 
+		return self.expression.replace('X',leftString).replace('Y',rightString)
 
-	def replaceFileStore(self,lines):
+	def replaceFileFunction(self,lines):
 		for line in lines:
-			if 'Store' in line:
-				store = self.extractComplateExpression(line,'Store')
-				leftString,rightString = self.decodeTwoParameterFunction(store)
-				newString = self.storeReplace(leftString,rightString)
-				line = line.replace(store,newString)
-			self.newLines.append(line)
-		return self.newLines
-
-class LEqualReplace(complateExpression):
-	def __init__(self):
-		self.newLines 	= []
-		
-	def storeReplace(self,leftString,rightString):
-		return '(' + leftString + ' == ' + rightString + ')'
-
-	def replaceFileStore(self,lines):
-		for line in lines:
-			if 'LEqual' in line:
-				store = self.extractComplateExpression(line,'LEqual')
-				leftString,rightString = self.decodeTwoParameterFunction(store,'LEqual')
-				newString = self.storeReplace(leftString,rightString)
-				line = line.replace(store,newString)
+			if self.keyword in line:
+				function = self.extractComplateExpression(line,self.keyword)
+				leftString,rightString = self.decodeTwoParameterFunction(function,self.keyword)
+				newString = self.functionReplace(leftString,rightString)
+				line = line.replace(function,newString)
 			self.newLines.append(line)
 		return self.newLines
 
@@ -128,7 +112,7 @@ if __name__ == "__main__":
 		if os.path.splitext(item)[1]=='.asl':
 			print item
 			lines = readFile(item)
-			store_replace = LEqualReplace()
-			newLines = store_replace.replaceFileStore(lines)
+			store_replace = TwoParameterFunction('X != Y','LNotEqual')
+			newLines = store_replace.replaceFileFunction(lines)
 			#print newLines
 			writeFile(item,newLines)
