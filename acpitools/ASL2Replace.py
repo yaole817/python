@@ -48,8 +48,8 @@ class complateExpression:
 		else:
 			return False
 
-	def extractComplateExpression(self,string,findExpression):
-		storeIndexStart = string.index(findExpression)
+	def extractComplateExpression(self,string,keyword):
+		storeIndexStart = string.index(keyword)
 		storeIndexEnd   = storeIndexStart
 		for i in range(len(string)):
 			storeIndexEnd = i+1
@@ -106,8 +106,11 @@ class ThreeParameterFunction(complateExpression):
 		return expression.replace('leftString',leftString).replace('rightString',rightString).replace('resultString',resultString)
 
 	def replaceFileFunction(self,lines):
+		import re
+		reExpression = self.keyword+'[ ]*\(.'
+		expressionPattern = re.compile(reExpression)
 		for line in lines:
-			if self.keyword in line:
+			if expressionPattern.findall(line)!=[]:
 				function = self.extractComplateExpression(line,self.keyword)
 				parameterList = self.decodeFunctionParameter(function,self.keyword)
 				# judge the lenth of parameter
@@ -135,21 +138,28 @@ def writeFile(filename,myList):
 			f.write(line)
 
 if __name__ == "__main__":
+	path = 'D:\BIOS\BYO-A0-ACPI-restruct\AsiaPkg\Asia\PLATFORM\AcpiTables'
+	os.chdir(path)
+
+	dsdtPath = '..\..\..\..\PlatformPkg\AcpiTables\Dsdt\Dsdt.asl'
+	'''
 	fileList =  [x for x in os.listdir('.') if os.path.splitext(x)[1]=='.asl']
 	testText = ['And((1,2),BCD,CDE)']
-
+	
 	Exp = ThreeParameterFunction(' resultString = leftString & rightString','leftString & rightString','And')
 	parList  = Exp.replaceFileFunction(testText)
 	print parList
 	exit()
+	'''
 	#lines = replaceFileStore('Gpe.asl')
 	#writeFile('newGpe.asl',lines)
 	filepathList = getAllfile()
+	filepathList.append(dsdtPath)
 	for item in filepathList:
 		if os.path.splitext(item)[1]=='.asl':
 			print item
 			lines = readFile(item)
-			store_replace = TwoParameterFunction('leftString != rightString','LNotEqual')
+			store_replace = ThreeParameterFunction('resultString = leftString + rightString','leftString + rightString','Add')
 			newLines = store_replace.replaceFileFunction(lines)
 			#print newLines
 			writeFile(item,newLines)
