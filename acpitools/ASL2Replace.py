@@ -87,13 +87,18 @@ class TwoParameterFunction(complateExpression):
 		import re
 		reExpression = self.keyword+'[ ]*\(.'
 		expressionPattern = re.compile(reExpression)
+		string = ''
 		for line in lines:
-			if expressionPattern.findall(line)!=[]:
-				function = self.extractComplateExpression(line,self.keyword)
+			string +=line
+			if expressionPattern.findall(string)!=[]:
+				if self.judgeStringComplate(string)==False:
+					continue
+				function = self.extractComplateExpression(string,self.keyword)
 				parameterList= self.decodeFunctionParameter(function,self.keyword)
 				newString = self.functionReplace(parameterList[0],parameterList[1])
-				line = line.replace(function,newString)
-			self.newLines.append(line)
+				string = string.replace(function,newString)
+			self.newLines.append(string)
+			string = ''
 		return self.newLines
 
 
@@ -166,10 +171,10 @@ def writeFile(filename,myList):
 			f.write(line)
 
 if __name__ == "__main__":
-	path = 'D:\BIOS\BYO-A0-ACPI-restruct\AsiaPkg\Asia\PLATFORM\AcpiTables'
+	path = 'D:\BIOS\BYO_A0_Acpi_resucture\PlatformPkg\AcpiTables\Dsdt'
 	os.chdir(path)
 
-	dsdtPath = '..\..\..\..\PlatformPkg\AcpiTables\Dsdt\Dsdt.asl'
+	#dsdtPath = '..\..\..\..\PlatformPkg\AcpiTables\Dsdt\Dsdt.asl'
 	'''
 	fileList =  [x for x in os.listdir('.') if os.path.splitext(x)[1]=='.asl']
 	testText = ['And((1,2),BCD,CDE)']
@@ -182,12 +187,13 @@ if __name__ == "__main__":
 	#lines = replaceFileStore('Gpe.asl')
 	#writeFile('newGpe.asl',lines)
 	filepathList = getAllfile()
-	filepathList.append(dsdtPath)
+	#filepathList.append(dsdtPath)
 	for item in filepathList:
 		if os.path.splitext(item)[1]=='.asl':
 			print item
 			lines = readFile(item)
-			store_replace = TwoParameterFunction('rightString = leftString','store')
+			store_replace = TwoParameterFunction('rightString = leftString','Store')
+			#store_replace = ThreeParameterFunction('resultString = leftString[rightString]','leftString[rightString]','Index')
 			newLines = store_replace.replaceFileFunction(lines)
 			#print newLines
 			writeFile(item,newLines)
