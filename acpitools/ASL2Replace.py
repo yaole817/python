@@ -84,8 +84,11 @@ class TwoParameterFunction(complateExpression):
 		return self.expression.replace('leftString',leftString).replace('rightString',rightString)
 
 	def replaceFileFunction(self,lines):
+		import re
+		reExpression = self.keyword+'[ ]*\(.'
+		expressionPattern = re.compile(reExpression)
 		for line in lines:
-			if self.keyword in line:
+			if expressionPattern.findall(line)!=[]:
 				function = self.extractComplateExpression(line,self.keyword)
 				parameterList= self.decodeFunctionParameter(function,self.keyword)
 				newString = self.functionReplace(parameterList[0],parameterList[1])
@@ -184,7 +187,7 @@ if __name__ == "__main__":
 		if os.path.splitext(item)[1]=='.asl':
 			print item
 			lines = readFile(item)
-			store_replace = OneParameterFunction('parameterString--','Decrement')
+			store_replace = TwoParameterFunction('rightString = leftString','store')
 			newLines = store_replace.replaceFileFunction(lines)
 			#print newLines
 			writeFile(item,newLines)
