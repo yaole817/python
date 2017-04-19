@@ -122,6 +122,31 @@ class ThreeParameterFunction(complateExpression):
 			self.newLines.append(line)
 		return self.newLines
 
+
+class OneParameterFunction(complateExpression):
+	def __init__(self,expression,keyword): # expression must be like 'X==Y,X<=Y'
+		self.newLines 	= []
+		self.expression = expression  #
+		self.keyword 	= keyword
+
+	def functionReplace(self,expression,parameterString):
+		# replace expression with X by leftString and Y by rightString 
+		return expression.replace('parameterString',parameterString)
+
+	def replaceFileFunction(self,lines):
+		import re
+		reExpression = self.keyword+'[ ]*\(.'
+		expressionPattern = re.compile(reExpression)
+		for line in lines:
+			if expressionPattern.findall(line)!=[]:
+				function = self.extractComplateExpression(line,self.keyword)
+				parameterList = self.decodeFunctionParameter(function,self.keyword)
+				# judge the lenth of parameter
+				newString = self.functionReplace(self.expression,parameterList[0])
+				line = line.replace(function,newString)
+			self.newLines.append(line)
+		return self.newLines
+
 def getAllfile():
 	scan	= ScanFile('..')
 	files	= scan.scan_files()
@@ -159,7 +184,7 @@ if __name__ == "__main__":
 		if os.path.splitext(item)[1]=='.asl':
 			print item
 			lines = readFile(item)
-			store_replace = ThreeParameterFunction('resultString = leftString + rightString','leftString + rightString','Add')
+			store_replace = OneParameterFunction('parameterString--','Decrement')
 			newLines = store_replace.replaceFileFunction(lines)
 			#print newLines
 			writeFile(item,newLines)
