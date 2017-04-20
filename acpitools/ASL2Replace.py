@@ -49,7 +49,7 @@ class complateExpression:
 			return False
 
 	def extractComplateExpression(self,string,keyword):
-		storeIndexStart = string.index(keyword)
+		storeIndexStart = string.rindex(keyword)
 		storeIndexEnd   = storeIndexStart
 		for i in range(len(string)):
 			storeIndexEnd = i+1
@@ -117,17 +117,22 @@ class ThreeParameterFunction(complateExpression):
 		import re
 		reExpression = self.keyword+'[ ]*\(.'
 		expressionPattern = re.compile(reExpression)
+		string = ''
 		for line in lines:
-			if expressionPattern.findall(line)!=[]:
-				function = self.extractComplateExpression(line,self.keyword)
+			string +=line
+			if expressionPattern.findall(string)!=[]:
+				if self.judgeStringComplate(string)==False:
+					continue
+				function = self.extractComplateExpression(string,self.keyword)
 				parameterList = self.decodeFunctionParameter(function,self.keyword)
 				# judge the lenth of parameter
 				if len(parameterList)==2:
 					newString = self.functionReplace(self.two_par_exp,parameterList[0],parameterList[1],'')
 				elif len(parameterList)==3:
 					newString = self.functionReplace(self.three_par_exp,parameterList[0],parameterList[1],parameterList[2])
-				line = line.replace(function,newString)
-			self.newLines.append(line)
+				string = string.replace(function,newString)
+			self.newLines.append(string)
+			string = ''
 		return self.newLines
 
 
@@ -192,8 +197,8 @@ if __name__ == "__main__":
 		if os.path.splitext(item)[1]=='.asl':
 			print item
 			lines = readFile(item)
-			store_replace = TwoParameterFunction('rightString = leftString','Store')
-			#store_replace = ThreeParameterFunction('resultString = leftString[rightString]','leftString[rightString]','Index')
+			#store_replace = TwoParameterFunction('rightString = leftString','Store')
+			store_replace = ThreeParameterFunction('resultString = leftString[rightString]','leftString[rightString]','Index')
 			newLines = store_replace.replaceFileFunction(lines)
 			#print newLines
 			writeFile(item,newLines)
