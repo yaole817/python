@@ -70,7 +70,7 @@ class complateExpression:
 				if self.judgeStringComplate(parameterString ) and self.judgeStringComplate(leftParameterString):
 					parameterList.append(parameterString)
 					startIndex = i+1
-		parameterList.append(keyString[startIndex:])
+		parameterList.append(keyString[startIndex:].strip())
 		return parameterList
 
 
