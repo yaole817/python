@@ -15,3 +15,6 @@ def writeFile(fileList,newFilename):
 def printList(fileList):
 	for line in fileList:
 		print(line)
+def printDict(dict):
+	for key in dict:
+		print('{0:40}{1:20}'.format(key,'\t:'+dict[key]))
