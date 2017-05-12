@@ -1,3 +1,5 @@
+import FileOperator
+
 class setupOption():
 	def __init__(self,string):
 		_name 		  = ''
@@ -5,42 +7,41 @@ class setupOption():
 		_optionValue  = {}
 		_conditon 	  = ''
 
+class IFile():
+	def __init__(self,fileList):
+		self.__fileList = fileList
+		self.__oneofList = []
+		self.__conditionList = []
+
+	def __addConditions2Oneof(self):
+		conditionList = []
+		for line in self.__fileList:
+			if 'suppressif' in line:
+				conditionList.append(line)
+			if 'endif' in line:
+				conditionList.pop()
+			if 'endoneof' in line and len(conditionList)>0:
+				self.__conditionList.append(conditionList[-1])
+			self.__conditionList.append(line)
+
+	def extractOneof(self):
+		self.__addConditions2Oneof()
+		import re
+		oneofPattern = re.compile(r'oneof.*?endoneof',re.DOTALL)
+		self.__oneofList = oneofPattern.findall(''.join(self.__conditionList))
+		return self.__oneofList
 
 
-
-class ParseIFile():
-	def __init__(self,fileName):
-		_fileName = fileName
-
-
-	def readFile():
-		with open(self._fileName,'r') as f:
-			lines = f.readlines()
-			return lines
 
 if __name__ == '__main__':
+	filename = "../res/Advanced.i"
 
-	conditionList=[]
-	oneofList 	 =[]
-	lines		 =[]
-	newLines	 =[]
-	with open('Advanced.i','r')as f:
-		lines = f.readlines()
-	for line in lines:
-		if 'suppressif' in line:
-			conditionList.append(line)
-		if 'endif' in line:
-			conditionList.pop()
-		if 'endoneof' in line and len(conditionList)>0:
-			newLines.append(conditionList[-1])
-		newLines.append(line)
-	import re
-	oneofPattern = re.compile(r'oneof.*?endoneof',re.DOTALL)
-	oneofStringList = oneofPattern.findall(''.join(newLines))
-	with open('newAdvanced.i','w') as f:
-		for line in oneofStringList:
-			f.write(line)
-			f.write('\n')
+	iFileList = FileOperator.readFile(filename)
+	
+	iFile = IFile(iFileList)
+	newLineList = iFile.extractOneof()
+
+	FileOperator.printList(newLineList)
 
 
 
