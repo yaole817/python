@@ -18,3 +18,15 @@ def printList(fileList):
 def printDict(dict):
 	for key in dict:
 		print('{0:40}{1:20}'.format(key,'\t:'+dict[key]))
+
+def extractPureText(stringList):
+	def translateStr(string):
+		s = ''
+		for i in string:
+			if  ord(i) >0 and ord(i) <255: s+=i
+		return s
+	newStringList = []
+	for line in stringList:
+		newLine = translateStr(line)
+		newStringList.append(newLine)
+	return newStringList

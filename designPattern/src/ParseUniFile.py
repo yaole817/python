@@ -5,23 +5,11 @@ class UniFile():
 	def __init__(self,fileList):
 		self.__fileList = fileList
 		self.__strFile = []
-
-	def __translateStr(self,string):
-		s = ''
-		for i in string:
-			if  ord(i) >0 and ord(i) <255: s+=i
-		return s
-
-	def __extractUniFile(self):
-		for line in self.__fileList:
-			newLine = self.__translateStr(line)
-			self.__strFile.append(newLine)
-		return self.__strFile
 		
 	def extractEnUsLines(self):
 
 		enUsLines = []
-		newLineList = self.__extractUniFile()
+		newLineList = FileOperator.extractPureText(self.__fileList)
 		for line in newLineList:
 			if 'en-US' in line and "#string" in line:
 				enUsLines.append(line)
