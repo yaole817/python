@@ -9,15 +9,14 @@ import sys
 
 class Docx2Text(object):
 	def __init__(self,docxName):
-		self.__docxName = docxName
-		self.xml 	    = str(ZipFile(self.__docxName).read('word/document.xml'))
+		self.xml  = str(ZipFile(docxName).read('word/document.xml'))
 
 	def findParagraph(self,xml):
 		paragraphPattern= re.compile(r'.*(<w:p w)(.*?)(</w:p>)')
-		pargraphTuple	= paragraphPattern.findall(xml)
+		pargraphTuples	= paragraphPattern.findall(xml)
 		result = []
-		for line in pargraphTuple:
-			tuple2xml	= ''.join(line)
+		for pargraphTuple in pargraphTuples:
+			tuple2xml	= ''.join(pargraphTuple)
 			result.append(tuple2xml)
 		return result
 	
@@ -57,14 +56,19 @@ class Docx2Text(object):
 
 class ParseIRS(Docx2Text):
 	def __init__(self,docxName):
-		Docx2Text.__init__(self,docxName)
+		super(ParseIRS,self).__init__(docxName)
 		self.__xml = self.xml
 		self.__startIndex = 0
 		self.__endIndex = 0
 		
 
 	def findOffsetAddr(self,xml):
-		return super(ParseIRS,self).findParagraph(xml)
+		
+		paragraph = super(ParseIRS,self).findParagraph(xml)[-1]  # find the lastest paragraph,which is always the base address
+
+		offsetAddr = super(ParseIRS,self).findText(paragraph) 
+
+		return offsetAddr
 
 	def parseOneTable(self,tableXml):
 		
@@ -73,11 +77,10 @@ class ParseIRS(Docx2Text):
 		oneTable  = super(ParseIRS,self).parseTable(tableXml)
 		newXml = self.__xml[self.__startIndex:self.__endIndex] # cut off the xml
 
-		paragraph = self.findOffsetAddr(newXml)[-1]  # find the lastest paragraph,which is always the base address
-
-		offsetAddr = super(ParseIRS,self).findText(paragraph) 
+		offsetAddr = self.findOffsetAddr(newXml)
 
 		self.__startIndex  = self.__endIndex
+
 		return offsetAddr,oneTable
 
 
