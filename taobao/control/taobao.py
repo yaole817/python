@@ -27,18 +27,25 @@ class TAOBAO:
         #    print e
     #摘取所要数据    
     def parsePage(self,html):
-        try:
-            plt = re.findall(r'\"view_price\"\:\"[\d\.]*\"',html)
-            tlt = re.findall(r'\"raw_title\"\:\".*?\"',html)
-            npl = re.findall(r'\"view_sales\"\:\"[\d]*',html)
-            for i in range(len(plt)):
-                price = eval(plt[i].split(':',1)[1])
-                title = eval(tlt[i].split(':',1)[1])
-                num   = eval(npl[i].split(':"',1)[1])
-                self.ilt.append([price , num, title])
-        except:
-            print("摘取数据出错").encode('utf-8')
-            return None
+        # try:
+        plt = re.findall(r'\"view_price\"\:\"[\d\.]*\"',html)
+        tlt = re.findall(r'\"raw_title\"\:\".*?\"',html)
+        npl = re.findall(r'\"view_sales\"\:\"[\d]*',html)
+        #linksPattern = re.compile(r'href="//.*?"',re.DOTALL)
+        links = re.findall(r'detail_url\"\:\".*?\"',html)
+
+        for link in links:
+            print(link)
+        exit()
+        for i in range(len(plt)):
+            price = eval(plt[i].split(':',1)[1])
+            title = eval(tlt[i].split(':',1)[1])
+            num   = eval(npl[i].split(':"',1)[1])
+            
+            self.ilt.append([price , num, title])
+        # except:
+        #     print("摘取数据出错").encode('utf-8')
+        #     return None
     #打印数据
     def printGoodsList(self):
 
