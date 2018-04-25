@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<head>
+    <title>{{ title }}</title>
+    <style>
+        h1{
+            border-style: solid;
+            border-width: 3px;
+            border-color: black;
+            font-family: 'Times New Roman', Times, serif;
+            color: rgb(255, 0, 0);
+            font-size: 80px;
+            text-align: center;
+            text-transform: capitalize;
+        }
+        table {
+            border-collapse: collapse;
+            font-size: 40px;
+            background-color: gray;
+            /* color:blue; */
+            text-align: right;
+            width: 50%;
+            padding: 15px;
+            /* background-color: deeppink; */
+        }
+
+        td, th {
+            color: red;
+            border: 1px solid rgb(231, 18, 18);
+        }
+        ul { 
+            list-style-type:none; 
+            margin:0; 
+            padding:0; 
+            bottom: 0;
+        }
+        a { 
+            display:block; 
+            width:60px; 
+        }
+
+        li { 
+            float: left;
+            width: 100px;
+        }
+        .dropdown {
+            position: relative;
+            display: inline;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 40px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            padding: 12px 16px;
+            z-index: 1;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+    </style>
+</head>
+
+<body>
+<div class="dropdown">
+    <span>菜单</span>
+    <div class="dropdown-content">
+        <p>开始</p>
+        <p>open</p>
+        <p>save</p>
+        <p>退出</p>
+    </div>
+</div>
+
+<h1>{{ hello }}</h1>
+
+{%block mainbody%}
+    <p class="original"> original</p>
+{% endblock %}
+{{ date }}
+
+<table>
+    <tr>
+        <th>FirstName</th>
+        <th>LastName</th>
+    </tr>
+    <tr>
+        <td>Peter</td>
+        <td>Griffin</td>
+    </tr>
+    <tr>
+        <td>Lois</td>
+        <td>Griffin</td>
+    </tr>
+</table>
+    <br><br><br>
+    <br><br><br>
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#news">News</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#about">About</a></li>
+    </ul>
+</body>
+
+</html>
