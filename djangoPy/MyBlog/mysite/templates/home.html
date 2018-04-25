@@ -1,70 +1,29 @@
+{% load staticfiles %}  
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Welcome to my blog</title>
-    <style>
-        * {
-            color: black;
-            font-family: 'Times New Roman', Times, serif
-        }
-        .title {
-            border-style: solid;
-            margin-top: 30px;
-            margin-bottom: 20px;
-            background-color: lightskyblue;
-            font-size: 40px;
-            padding: 10px;
-            
-        }
-        .content {
-            border-style: solid;
-            font-size: 20px;
-            background-color:lightgreen;
-            text-align: left;
-            padding: 15px;
-        }
-        #category{
-            color: black;
-            font-size: 20px;
-        }
-        ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-            background-color: #333;
-        }
-         
-        li {
-            float: left;
-            border-right: 1px solid #bbb;
-        }
-         
-        li a {
-            display: block;
-            color: white;
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-        }
-         
-        /*鼠标移动到选项上修改背景颜色 */
-        li a:hover {
-            background-color:black;
-        }
-        
-        li:last-child {
-            border-right: none;
-        }
-    </style>
+    <link rel="stylesheet" href="{% static 'base.css' %}">
+    <link rel="stylesheet" href="{% static 'bootstrap-3.3.7-dist/css/bootstrap.min.css' %}">
+    <script type="text/javascript" src="{% static 'js\bootstrap.min.js' %}"></script>
+    <script type="text/javascript" src="{% static 'bootstrap-3.3.7-dist/js/bootstrap.min.js' %}"></script>
+
 </head>
 <body>
-    <ul>
-        <li><a href="#home">主页</a></li>
-        <li><a href="#news">新闻</a></li>
-        <li><a href="#contact">联系</a></li>
-        <li><a href="#about">关于</a></li>
-    </ul>
+    <div class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="">个人博客</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li><a href="">首页</a></li>
+                <li><a href="">博客</a></li>
+            </ul>
+        </div>
+    </div>
     {% for blog in blogAllList %}
         <div class="title">{{ blog.title }}</div> 
             <p id="category">类别:

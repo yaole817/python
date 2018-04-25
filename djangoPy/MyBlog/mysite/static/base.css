@@ -1,0 +1,22 @@
+* {
+    font-family: 'Times New Roman', Times, serif
+}
+.title {
+    color: black;
+    border-style: solid;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    background-color: lightskyblue;
+    font-size: 40px;
+    padding: 10px;
+}
+.content {
+    border-style: solid;
+    font-size: 20px;
+    background-color:lightgreen;
+    text-align: left;
+    padding: 15px;
+}
+#category{
+    font-size: 20px;
+}
