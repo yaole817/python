@@ -18,7 +18,7 @@ from django.urls import path
 from mysite import views as mysite_view
 from User import views as user_view
 urlpatterns = [
-    path('', user_view.login),
     path('', mysite_view.index),
+    path('login/', user_view.login, name='login'),
     path('admin/', admin.site.urls),
 ]

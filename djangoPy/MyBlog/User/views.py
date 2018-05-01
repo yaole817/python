@@ -2,5 +2,5 @@ from django.shortcuts import render
 
 # Create your views here.
 def login(request):
-    context = {}
-    return render(request, 'home.html', context)
+    context = { 'status' : "this site error" }
+    return render(request, 'login.html', context)
